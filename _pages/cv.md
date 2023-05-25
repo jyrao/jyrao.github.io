@@ -11,49 +11,64 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical and Computer Engineering, UMich-SJTU Joint Institute, 2023
+* Ph.D in Computer Science, Shanghai Jiao Tong University, 2028 (expected)
 
-Work experience
+Visiting Education
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Massachusetts Institute of Technology, Boston, 12/2019 ~ 01/2020
+* University of Wisconsin, Madison, 01/2022 ~ 06/2022
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
+Work Experience
+======
+* Summer 2020: Information Technology Specialist Intern
+  * State Grid Corporation of China
+  * Duties included: Data analysis, Web maintainance
+
+* Fall 2021: Research Assistant
+  * UM-SJTU JI: Efficient and Intelligent Computing Laboratory
+  * Duties included: Theory construction and calculation
+  * Supervisor: Professor An Zou
+
+
+Teaching Experience
+======
+Teaching Assistant, University of Michigan – Shanghai Jiao Tong University Joint Institute
+* *(FA21)* MATH2560J, Honors Linear Algebra & Differential Equation, Advisor: Prof. Olga Danilkina
+* *(FA21)* MATH2160J, Calculus Ⅳ, Advisor: Prof. Olga Danilkina 
+* *(SU22)* CUL2610J, French Culture, Advisor: Prof. Aline Chevalier
+* *(FA22)* STAT4060J, Computational Methods for Statistics and Data Science, Advisor: Prof. Ailin Zhang
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: C/C++, Python, SQL, R, MATLAB, Verilog, LaTeX, Java Script, Arduino, Mathematica
+* Frameworks: TensorFlow, Pytorch, Keras
+* Libraries: pandas, NumPy, Matplotlib
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Class Advisor, F2037005 in SJTU, 2020.9 ~ pres.
+* Class Monitor, F1937005 in SJTU, 2020.12 ~ pres.
+* Assistant Director, Practice Department, Youth Volunteer Team of SJTU, 11/2020 ~ 12/2021
+* Assistant Director, Communication Department, SJTU Sports Union, 11/2020 ~ 12/2021
+
+
+Interests and Hobbies
+======
+* Tennis: Member of SJTU tennis school representative team, Rank 2 in SJTU tennis tournament (Men’s Single)
+* Music: Signer with guitar, Top 10 Singers of Institution
+* Volunteer: Volunteer Math Lecture in Jishiyu Middle School. Committed to many volunteering events in school and society.
