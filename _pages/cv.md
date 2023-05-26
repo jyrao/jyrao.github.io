@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical and Computer Engineering, UMich-SJTU Joint Institute, 2023
+* B.Eng. in Electrical and Computer Engineering, UMich-SJTU Joint Institute, 2023
 * Ph.D in Computer Science, Shanghai Jiao Tong University, 2028 (expected)
 
 Visiting Education
