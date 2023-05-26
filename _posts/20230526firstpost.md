@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'First Post in my Blog!'
+date: 2023-05-26
+permalink: /posts/2023/05/26firstpost/
 tags:
   - cool posts
   - category1

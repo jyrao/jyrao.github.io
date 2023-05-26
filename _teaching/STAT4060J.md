@@ -3,7 +3,7 @@ title: "STAT4060J, Computational Methods for Statistics and Data Science"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/STAT4060J
-venue: "University of Muchigan - Shanghai Jiao Tong University Joint Institute"
+venue: "University of Michigan - Shanghai Jiao Tong University Joint Institute"
 date: 2022-09-07
 location: "Shanghai, China"
 ---

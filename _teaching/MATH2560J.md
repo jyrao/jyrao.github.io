@@ -3,7 +3,7 @@ title: "MATH2560J, Honors Calculus IV"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/MATH2560J
-venue: "University of Muchigan - Shanghai Jiao Tong University Joint Institute"
+venue: "University of Michigan - Shanghai Jiao Tong University Joint Institute"
 date: 2021-09-07
 location: "Shanghai, China"
 ---

@@ -16,9 +16,8 @@ Education
 
 Visiting Education
 ======
-* Massachusetts Institute of Technology, Boston, 12/2019 ~ 01/2020
-* University of Wisconsin, Madison, 01/2022 ~ 06/2022
-
+* Winter Program at Massachusetts Institute of Technology, Boston, 12/2019 ~ 01/2020
+* Exchange Student at University of Wisconsin, Madison, 01/2022 ~ 06/2022
 
 Work Experience
 ======
@@ -40,11 +39,6 @@ Teaching Assistant, University of Michigan – Shanghai Jiao Tong University Joi
 * *(SU22)* CUL2610J, French Culture, Advisor: Prof. Aline Chevalier
 * *(FA22)* STAT4060J, Computational Methods for Statistics and Data Science, Advisor: Prof. Ailin Zhang
 
-Skills
-======
-* Languages: C/C++, Python, SQL, R, MATLAB, Verilog, LaTeX, Java Script, Arduino, Mathematica
-* Frameworks: TensorFlow, Pytorch, Keras
-* Libraries: pandas, NumPy, Matplotlib
 
 <!-- Publications
 ======
@@ -58,7 +52,16 @@ Skills
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-  
+Awards
+======
+* 2020-2021 SJTU C-Scholarship
+* 2021-2022 SJTU C-Scholarship
+* 2021-2022 SJTU 3-Good Student
+* 2021 SJTU Exccellent Youth Volunteer
+* 2022 Excellent League Member
+* Umich-SJTU Joint Institute Advanced Teaching Assistant
+* **2023 Shanghai Outstanding Graduate**
+
 Service and leadership
 ======
 * Class Advisor, F2037005 in SJTU, 2020.9 ~ pres.
@@ -66,6 +69,11 @@ Service and leadership
 * Assistant Director, Practice Department, Youth Volunteer Team of SJTU, 11/2020 ~ 12/2021
 * Assistant Director, Communication Department, SJTU Sports Union, 11/2020 ~ 12/2021
 
+Skills
+======
+* Languages: C/C++, Python, SQL, R, MATLAB, Verilog, LaTeX, Java Script, Arduino, Mathematica
+* Frameworks: TensorFlow, Pytorch, Keras
+* Libraries: pandas, NumPy, Matplotlib
 
 Interests and Hobbies
 ======
