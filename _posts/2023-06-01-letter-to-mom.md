@@ -1,6 +1,6 @@
 ---
 title: '《一两红谈》序言'
-date: 2023-06-02
+date: 2023-06-01
 permalink: /posts/2023/06/letter-to-mom/
 tags:
   - daily life
