@@ -38,6 +38,7 @@ Teaching Assistant, University of Michigan – Shanghai Jiao Tong University Joi
 * *(FA21)* MATH2160J, Calculus Ⅳ, Advisor: Prof. Olga Danilkina 
 * *(SU22)* CUL2610J, French Culture, Advisor: Prof. Aline Chevalier
 * *(FA22)* STAT4060J, Computational Methods for Statistics and Data Science, Advisor: Prof. Ailin Zhang
+* *(FA23)* BUS3680J, Architecture, Sustainability and the City, Advisor: Prof. Aline Chevalier
 
 
 <!-- Publications
