@@ -9,27 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education Experience
 ======
 * B.Eng. in Electrical and Computer Engineering, UMich-SJTU Joint Institute, 2023
+* Minor in Data Science, UMich-SJTU Joint Institute, 2023
 * Ph.D in Computer Science, Shanghai Jiao Tong University, 2028 (expected)
 
 Visiting Education
 ======
 * Winter Program at Massachusetts Institute of Technology, Boston, 12/2019 ~ 01/2020
 * Exchange Student at University of Wisconsin, Madison, 01/2022 ~ 06/2022
-
-Work Experience
-======
-* Summer 2020: Information Technology Specialist Intern
-  * State Grid Corporation of China
-  * Duties included: Data analysis, Web maintainance
-
-* Fall 2021: Research Assistant
-  * UM-SJTU JI: Efficient and Intelligent Computing Laboratory
-  * Duties included: Theory construction and calculation
-  * Supervisor: Professor An Zou
-
 
 Teaching Experience
 ======
@@ -59,25 +48,38 @@ Awards
 * 2021-2022 SJTU C-Scholarship
 * 2021-2022 SJTU 3-Good Student
 * 2021 SJTU Exccellent Youth Volunteer
+* 2021-2022 SJTU Tennis Tournament Men's Single - Silver Medal
 * 2022 Excellent League Member
-* Umich-SJTU Joint Institute Advanced Teaching Assistant
+* 2022 Umich-SJTU Joint Institute Excellent Teaching Assistant
 * **2023 Shanghai Outstanding Graduate**
+* 2023-2024 Shanghai University Tennis Tournament Men's Team - Bronze Medal
 
-Service and leadership
+Compere Services
 ======
-* Class Advisor, F2037005 in SJTU, 2020.9 ~ pres.
+* MC of Shaquille O'Neal China Tour, Shanghai, 2023.9.28
+* MC of Pamela Reif China Tour, Shanghai, 2023.11.4
+
+Work Experience
+======
+* Summer 2020: Information Technology Specialist Intern
+  * State Grid Corporation of China
+  * Duties included: Data analysis, Web maintainance
+
+* Fall 2021: Research Assistant
+  * UM-SJTU JI: Efficient and Intelligent Computing Laboratory
+  * Duties included: Theory construction and calculation
+  * Supervisor: Professor An Zou
+
+Service and Leadership
+======
+* Class Advisor, F2037005 in SJTU, 2020.9 ~ 2023.8
 * Class Monitor, F1937005 in SJTU, 2020.12 ~ pres.
 * Assistant Director, Practice Department, Youth Volunteer Team of SJTU, 11/2020 ~ 12/2021
 * Assistant Director, Communication Department, SJTU Sports Union, 11/2020 ~ 12/2021
 
-Skills
+
+Skills and Interests
 ======
 * Languages: C/C++, Python, SQL, R, MATLAB, Verilog, LaTeX, Java Script, Arduino, Mathematica
-* Frameworks: TensorFlow, Pytorch, Keras
-* Libraries: pandas, NumPy, Matplotlib
-
-Interests and Hobbies
-======
-* Tennis: Member of SJTU tennis school representative team, Rank 2 in SJTU tennis tournament (Men’s Single)
-* Music: Signer with guitar, Top 10 Singers of Institution
-* Volunteer: Volunteer Math Lecture in Jishiyu Middle School. Committed to many volunteering events in school and society.
+* Tennis: Member of SJTU tennis representative team
+* Music: Folk songs with guitar, Top 10 in Singers Comp of UMJI
