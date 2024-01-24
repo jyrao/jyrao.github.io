@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## About Me
-I'm a freshman PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/), researching on the topic of Multi-modal Learning and AI for Science (AI4Sports) supervised by [Prof. Weidi Xie](https://weidixie.github.io/) with the team of [Media Brain](https://mediabrain.sjtu.edu.cn/). I finished my undergraduate life at 〽️ [UMich-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/about/) majoring in Electrical & Computer Engineering with Data Science minor degree.
+I'm a freshman PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/), researching on the topic of Multi-modal Learning and AI for Science (AI4Sports) supervised by [Prof. Weidi Xie](https://weidixie.github.io/) with the team of [Media Brain](https://mediabrain.sjtu.edu.cn/). I was dreaming about becoming a journalist in professional sports, luckily AI gave me another chance to dive into sports media industry. In the end, sports is all about human's body and mentality, hope AI truly benefits sports media a lot in the future. I finished my undergraduate life at 〽️ [UMich-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/about/) majoring in Electrical & Computer Engineering with Data Science minor degree.
 
 ![station image](https://github.com/jyrao/jyrao.github.io/blob/master/_pages/station.jpeg?raw=true "My sweet workspace")
 
