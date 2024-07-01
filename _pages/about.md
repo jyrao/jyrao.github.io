@@ -18,7 +18,7 @@ I was dreaming about becoming an athlete or a journalist in professional sports,
 
 ## News.
 - [2024.6] Codes for **MatchTime** ⚽️ are realesed.
-- [2023.12] Bronze medal 🥉 in the University Tennis Championships of Shanghai.
+- [2023.12] **Bronze medal** 🥉 in the University Tennis Championships of Shanghai.
 - [2023.9] Started PhD career in SJTU and Shanghai AI Lab.
 - [2023.8] Graduate from JI  and rewarded **Shanghai Excellent Graduate** 🎓.
 

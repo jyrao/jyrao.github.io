@@ -20,28 +20,14 @@ Visiting Education
 * Winter Program at Massachusetts Institute of Technology, Boston, 12/2019 ~ 01/2020
 * Exchange Student at University of Wisconsin, Madison, 01/2022 ~ 06/2022
 
-Teaching Experience
+Preprints
 ======
-Teaching Assistant, University of Michigan – Shanghai Jiao Tong University Joint Institute
-* *(FA21)* MATH2560J, Honors Linear Algebra & Differential Equation, Advisor: Prof. Olga Danilkina
-* *(FA21)* MATH2160J, Calculus Ⅳ, Advisor: Prof. Olga Danilkina 
-* *(SU22)* CUL2610J, French Culture, Advisor: Prof. Aline Chevalier
-* *(FA22)* STAT4060J, Computational Methods for Statistics and Data Science, Advisor: Prof. Ailin Zhang
-* *(FA23)* BUS3680J, Architecture, Sustainability and the City, Advisor: Prof. Aline Chevalier
+<strong>MatchTime: Towards Automatic Soccer Game Commentary Generation</strong><br>
+    <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://verg-avesta.github.io/" target="_blank">Chang Liu</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
+    <em>Under Review</em>, 2024<br>
+    [<a href="https://arxiv.org/pdf/2406.18530" target="_blank">PDF</a>] / [<a href="https://arxiv.org/abs/2406.18530" target="_blank">arxiv</a>] / [<a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">Page</a>]
+    </p>
 
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
 Awards
 ======
 * 2020-2021 SJTU C-Scholarship
@@ -58,6 +44,24 @@ Compere Services
 ======
 * MC of Shaquille O'Neal China Tour, Shanghai, 2023.9.28
 * MC of Pamela Reif China Tour, Shanghai, 2023.11.4
+* Hosted 50th Sports Meeting of SJTU, 2024.5.18
+
+Teaching Experience
+======
+Teaching Assistant, University of Michigan – Shanghai Jiao Tong University Joint Institute
+* *(FA21)* MATH2560J, Honors Linear Algebra & Differential Equation, Advisor: Prof. Olga Danilkina
+* *(FA21)* MATH2160J, Calculus Ⅳ, Advisor: Prof. Olga Danilkina 
+* *(SU22)* CUL2610J, French Culture, Advisor: Prof. Aline Chevalier
+* *(FA22)* STAT4060J, Computational Methods for Statistics and Data Science, Advisor: Prof. Ailin Zhang
+* *(FA23)* BUS3680J, Architecture, Sustainability and the City, Advisor: Prof. Aline Chevalier
+
+  
+<!-- Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> -->
+  
 
 Work Experience
 ======
@@ -73,7 +77,7 @@ Work Experience
 Service and Leadership
 ======
 * Class Advisor, F2037005 in SJTU, 2020.9 ~ 2023.8
-* Class Monitor, F1937005 in SJTU, 2020.12 ~ pres.
+* Class Monitor, F1937005 in SJTU, 2020.12 ~ 2023.8
 * Assistant Director, Practice Department, Youth Volunteer Team of SJTU, 11/2020 ~ 12/2021
 * Assistant Director, Communication Department, SJTU Sports Union, 11/2020 ~ 12/2021
 
@@ -81,5 +85,5 @@ Service and Leadership
 Skills and Interests
 ======
 * Languages: C/C++, Python, SQL, R, MATLAB, Verilog, LaTeX, Java Script, Arduino, Mathematica
-* Tennis: Member of SJTU tennis representative team
+* Sports: Member of SJTU tennis representative team, Goal Keeper in SJTU soccer team
 * Music: Folk songs with guitar, Top 10 in Singers Comp of UMJI
