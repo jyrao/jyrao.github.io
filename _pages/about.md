@@ -25,7 +25,7 @@ I was dreaming about becoming an athlete or a journalist in professional sports,
 ## Preprints
 <div style="display: flex; align-items: center;"> <!-- 添加align-items: center; 来垂直居中所有子元素 -->
   <div style="flex: 1; width: 25%; text-align: center;"> <!-- text-align: center; 用于水平居中图片 -->
-    <img src="https://github.com/jyrao/jyrao.github.io/blob/master/images/research/matchtime.png" style="width: 100%; max-width: 100%; height: auto;" alt="描述">
+    <img src="https://github.com/jyrao/jyrao.github.io/blob/master/images/research/matchtime.png?raw=true" style="width: 100%; max-width: 100%; height: auto;" alt="描述">
   </div>
   <div style="flex: 3; width: 75%;">
     <p>
