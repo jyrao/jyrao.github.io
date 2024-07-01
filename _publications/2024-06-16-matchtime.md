@@ -1,0 +1,24 @@
+---
+title: "MatchTime: Towards Automatic Soccer Game Commentary Generation"
+collection: preprints
+permalink: /publication/2024-06-16-matchtime
+date: 2024-06-16
+paperurl: 'https://haoningwu3639.github.io/MatchTime/'
+---
+<div style="display: flex; align-items: center;"> <!-- 添加align-items: center; 来垂直居中所有子元素 -->
+  <div style="flex: 1; width: 25%; text-align: center;"> <!-- text-align: center; 用于水平居中图片 -->
+    <img src="https://github.com/jyrao/jyrao.github.io/blob/master/images/research/matchtime.png" style="width: 100%; max-width: 100%; height: auto;" alt="描述">
+  </div>
+  <div style="flex: 3; width: 75%;">
+    <p>
+    <strong>MatchTime: Towards Automatic Soccer Game Commentary Generation</strong><br>
+    <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://verg-avesta.github.io/" target="_blank">Chang Liu</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
+    <em>Under Review</em>, 2024 <span style="color: red;">(NEW)</span><br>
+    [<a href="https://arxiv.org/pdf/2406.18530" target="_blank">PDF</a>] / [<a href="https://arxiv.org/abs/2406.18530" target="_blank">arxiv</a>] / [<a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">Page</a>]
+    </p>
+  </div>
+</div>
+
+<!-- Jiayuan Rao*, Haoning Wu*, Chang Liu, Yanfeng Wang, Weidi Xie
+
+[PDF](https://arxiv.org/pdf/2406.18530) / [arxiv]('https://arxiv.org/abs/2406.18530') / [Page](https://haoningwu3639.github.io/MatchTime/) -->

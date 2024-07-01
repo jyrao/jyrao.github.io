@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Jiayuan Rao 饶珈源"
-  avatar           : "profile.jpeg"
-  bio              : "HG'19 | UM-SJTU JI'23 | SJTU-SEIEE'28"
+  avatar           : "avatar.jpg"
+  bio              : "CSE PhD at SJTU"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=oW6qV1oAAAAJ&hl=zh-CN&oi=sra"
   email            : "mailto:jy_rao@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
