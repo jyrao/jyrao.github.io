@@ -24,9 +24,7 @@ Preprints
 ======
 <strong>MatchTime: Towards Automatic Soccer Game Commentary Generation</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://verg-avesta.github.io/" target="_blank">Chang Liu</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
-    <em>Under Review</em>, 2024<br>
-    [<a href="https://arxiv.org/pdf/2406.18530" target="_blank">PDF</a>] / [<a href="https://arxiv.org/abs/2406.18530" target="_blank">arxiv</a>] / [<a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">Page</a>]
-    </p>
+    <em>Under Review</em>, 2024 | [<a href="https://arxiv.org/pdf/2406.18530" target="_blank">PDF</a>] / [<a href="https://arxiv.org/abs/2406.18530" target="_blank">arxiv</a>] / [<a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">Page</a>]
 
 Awards
 ======
