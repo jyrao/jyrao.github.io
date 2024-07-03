@@ -32,7 +32,7 @@ I was dreaming about becoming an athlete or a journalist in professional sports,
     <strong>MatchTime: Towards Automatic Soccer Game Commentary Generation</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://verg-avesta.github.io/" target="_blank">Chang Liu</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>Under Review</em>, 2024 <span style="color: red;">(NEW)</span><br>
-    [<a href="https://arxiv.org/pdf/2406.18530" target="_blank">PDF</a>] / [<a href="https://arxiv.org/abs/2406.18530" target="_blank">arxiv</a>] / [<a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">Page</a>]
+    [<a href="https://arxiv.org/pdf/2406.18530" target="_blank">PDF</a>] / [<a href="https://arxiv.org/abs/2406.18530" target="_blank">arxiv</a>] / [<a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">Page</a>] / [<a href="https://github.com/jyrao/MatchTime" target="_blank">Code</a>]
     </p>
   </div>
 </div>
