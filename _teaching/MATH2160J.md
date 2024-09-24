@@ -7,8 +7,7 @@ venue: "University of Michigan - Shanghai Jiao Tong University Joint Institute"
 date: 2021-09-07
 location: "Shanghai, China"
 ---
-
-Teaching Assistant in Fall 2021, Advisor: Prof. Olga Danilkina
+Teaching Assistant in Fall 2021, Advisor: [Prof. Olga Danilkina](https://www.nottingham.edu.cn/cn/Science-Engineering/People/Profile.aspx?id=91310129-ded0-4f33-87d5-1bc126fdb1b7&language=zh)
 
 **Instructors:** OLGA DANILKINA;Zachiri McKenzie;Congyi Li;Heidi Andersen
 

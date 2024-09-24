@@ -21,12 +21,12 @@ Visiting Education
 * Winter Program at Massachusetts Institute of Technology, Boston, 12/2019 ~ 01/2020
 * Exchange Student at University of Wisconsin, Madison, 01/2022 ~ 06/2022
 
-Preprints
-=========
+Publications
+============
 
-`<strong>`MatchTime: Towards Automatic Soccer Game Commentary Generation`</strong><br>`
-    `<strong>`Jiayuan Rao*`</strong>`, `<a href="https://haoningwu3639.github.io/" target="_blank">`Haoning Wu*`</a>`, `<a href="https://verg-avesta.github.io/" target="_blank">`Chang Liu`</a>`, `<a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">`Yanfeng Wang`</a>`, `<a href="https://weidixie.github.io/" target="_blank">`Weidi Xie`</a><br>`
-    `<em>`Under Review`</em>`, 2024 | [`<a href="https://arxiv.org/pdf/2406.18530" target="_blank">`PDF`</a>`] / [`<a href="https://arxiv.org/abs/2406.18530" target="_blank">`arxiv`</a>`] / [`<a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">`Page`</a>`]
+**MatchTime: Towards Automatic Soccer Game Commentary Generation**
+**Jiayuan Rao***, Haoning Wu*, Chang Liu, Yanfeng Wang, Weidi Xie
+*Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)*
 
 Awards
 ======
