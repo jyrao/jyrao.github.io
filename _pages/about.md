@@ -15,6 +15,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 
 ## 🔥 News
 
+- [2024.9] I will give a talk about AI4Sports and VLM at **[NICE](https://nice-nlp.github.io/)**.
 - [2024.9] One paper (MatchTime) has been accepted by **EMNLP2024**.
 - [2024.6] Codes and materials for our first work in Soccer **MatchTime** ⚽️ are realesed.
 - [2023.12] **Bronze medal** 🥉 in the University Tennis Championships of Shanghai 🎾.
