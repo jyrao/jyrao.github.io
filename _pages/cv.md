@@ -21,13 +21,6 @@ Visiting Education
 * Winter Program at Massachusetts Institute of Technology, Boston, 12/2019 ~ 01/2020
 * Exchange Student at University of Wisconsin, Madison, 01/2022 ~ 06/2022
 
-Publications
-============
-
-**MatchTime: Towards Automatic Soccer Game Commentary Generation**
-**Jiayuan Rao***, Haoning Wu*, Chang Liu, Yanfeng Wang, Weidi Xie
-*Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)*
-
 Awards
 ======
 
