@@ -16,12 +16,12 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 ## 🔥 News
 
 - [2024.9] Invited talk about AI4Sports and VLM at **[NICE](https://nice-nlp.github.io/)**, after that I will serve as a committee there.
-- [2024.9] One paper (MatchTime ⚽️) has been accepted by **EMNLP2024**.
+- [2024.9] One paper (MatchTime ⚽️) has been accepted by **EMNLP2024** as oral presentation.
 - [2023.12] **Bronze medal** 🥉 in the University Tennis Championships of Shanghai 🎾.
 - [2023.9] Started PhD career in SJTU and Shanghai AI Lab.
 - [2023.8] Graduate from JI  and rewarded **Shanghai Excellent Graduate** 🎓.
 
-## 📝 Publications
+## 📝 Research
 
 <div style="display: flex; align-items: center;"> <!-- 添加align-items: center; 来垂直居中所有子元素 -->
   <div style="flex: 1; width: 25%; text-align: center; margin-right: 5%;"> <!-- text-align: center; 用于水平居中图片 -->
@@ -31,7 +31,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <p>
     <strong>MatchTime: Towards Automatic Soccer Game Commentary Generation</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://verg-avesta.github.io/" target="_blank">Chang Liu</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
-    <em>Conference on Empirical Methods in Natural Language Processing, EMNLP 2024</em> <span style="color: red;">(NEW)</span><br>
+    <em>In EMNLP 2024</em> <span style="color: red;">(Oral Presentation)</span><br>
     [<a href="https://arxiv.org/pdf/2406.18530" target="_blank">PDF</a>] / [<a href="https://arxiv.org/abs/2406.18530" target="_blank">arxiv</a>] / [<a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">Page</a>] / [<a href="https://github.com/jyrao/MatchTime" target="_blank">Code</a>] / [<a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo Video</a>]
     </p>
   </div>
