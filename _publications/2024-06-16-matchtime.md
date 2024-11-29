@@ -1,6 +1,6 @@
 ---
 title: "MatchTime: Towards Automatic Soccer Game Commentary Generation"
-collection: preprints
+collection: publications
 permalink: /publication/2024-06-16-matchtime
 date: 2024-06-16
 paperurl: 'https://haoningwu3639.github.io/MatchTime/'

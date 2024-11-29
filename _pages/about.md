@@ -14,7 +14,8 @@ I'm a freshman PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.
 I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me another chance to dive into sports media industry. I believe sports is all about human's body and mentality, hope my work can truly benefits atheletics performance and sports media in the future. Feel free to contact me if interest.
 
 ## 🔥 News
-
+- [2024.12] Will attend [CSIG](http://youth.csig.org.cn/CSIG2024/index.html#/) @ Zhejiang University with poster presentation
+- [2024.11] Will attend EMNLP 2024 in person @ Miami with oral presentation.
 - [2024.9] Invited talk about AI4Sports and VLM at **[NICE](https://nice-nlp.github.io/)**, after that I will serve as a committee there.
 - [2024.9] One paper (MatchTime ⚽️) has been accepted by **EMNLP2024** as oral presentation.
 - [2023.12] **Bronze medal** 🥉 in the University Tennis Championships of Shanghai 🎾.
@@ -22,6 +23,21 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 - [2023.8] Graduate from JI  and rewarded **Shanghai Excellent Graduate** 🎓.
 
 ## 📝 Research
+
+<div style="display: flex; align-items: center;"> <!-- 添加align-items: center; 来垂直居中所有子元素 -->
+  <div style="flex: 1; width: 25%; text-align: center; margin-right: 5%;"> <!-- text-align: center; 用于水平居中图片 -->
+    <img src="https://github.com/jyrao/jyrao.github.io/blob/master/images/research/unisoccer.png?raw=true" style="width: 100%; max-width: 100%; height: auto;" alt="描述">
+  </div>
+  <div style="flex: 3; width: 75%;">
+    <p>
+    <strong>Towards Universal Soccer Video Understanding</strong><br>
+    <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://scholar.google.nl/citations?user=0TvdOEcAAAAJ&hl=en" target="_blank">Hao Jiang</a>, <a href="https://mediabrain.sjtu.edu.cn/yazhang/" target="_blank">Ya Zhang</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
+    <em>Technical Report</em> <span style="color: red;">(New)</span><br>
+    [<a href="https://arxiv.org" target="_blank">PDF(soon)</a>] / [<a href="https://arxiv.org" target="_blank">arxiv(soon)</a>] / [<a href="https://jyrao.github.io/UniSoccer/" target="_blank">Page</a>] / [<a href="https://github.com/jyrao/UniSoccer
+    " target="_blank">Code</a>] / [<a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo Video(soon)</a>] / [<a href="https://huggingface.co/" target="_blank">Dataset(soon)</a>]
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center;"> <!-- 添加align-items: center; 来垂直居中所有子元素 -->
   <div style="flex: 1; width: 25%; text-align: center; margin-right: 5%;"> <!-- text-align: center; 用于水平居中图片 -->
