@@ -40,6 +40,12 @@ Compere Services
 * MC of Shaquille O'Neal China Tour, Shanghai, 2023.9.28
 * MC of Pamela Reif China Tour, Shanghai, 2023.11.4
 * Hosted 50th Sports Meeting of SJTU, 2024.5.18
+* Hosted 129 Running Festival of SJTU, 2024.12.8
+
+Academic Services
+=================
+
+* Committee member @ [NICE(NLP Academic Exchange Platform)](https://nice-nlp.github.io/)
 
 Teaching Experience
 ===================
@@ -82,5 +88,5 @@ Service and Leadership
 Skills and Interests
 ====================
 
-* Sports: Member of SJTU tennis representative team, Goal Keeper Try-out in SJTU soccer team
+* Sports: Member of SJTU tennis team, Goal Keeper in SJTU soccer team
 * Music: Folk songs with guitar, Top 10 in Singers Comp of UMJI

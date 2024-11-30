@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## 🔎 About Me
 
-I'm a freshman PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/), researching on the topic of Multi-modal Learning and AI for Science (AI4Sports) supervised by [Prof. Weidi Xie](https://weidixie.github.io/) and [Prof. Yanfeng Wang](https://cmic.sjtu.edu.cn/wangyanfeng/). I finished my undergraduate at 〽️ [UMich-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/about/) majoring in Electrical & Computer Engineering with Data Science minor degree.
+I'm a 2nd-year PhD student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/), researching on the topic of Multi-modal Learning and AI for Science (AI4Sports) supervised by [Prof. Weidi Xie](https://weidixie.github.io/) and [Prof. Yanfeng Wang](https://cmic.sjtu.edu.cn/wangyanfeng/). I finished my undergraduate at 〽️ [UMich-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/about/) majoring in Electrical & Computer Engineering with Data Science minor degree.
 
 I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me another chance to dive into sports media industry. I believe sports is all about human's body and mentality, hope my work can truly benefits atheletics performance and sports media in the future. Feel free to contact me if interest.
 
