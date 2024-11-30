@@ -33,8 +33,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <strong>Towards Universal Soccer Video Understanding</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://scholar.google.nl/citations?user=0TvdOEcAAAAJ&hl=en" target="_blank">Hao Jiang</a>, <a href="https://mediabrain.sjtu.edu.cn/yazhang/" target="_blank">Ya Zhang</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>Technical Report</em> <span style="color: red;">(New)</span><br>
-    [<a href="https://arxiv.org" target="_blank">PDF(soon)</a>] / [<a href="https://arxiv.org" target="_blank">arxiv(soon)</a>] / [<a href="https://jyrao.github.io/UniSoccer/" target="_blank">Page</a>] / [<a href="https://github.com/jyrao/UniSoccer
-    " target="_blank">Code</a>] / [<a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo Video(soon)</a>] / [<a href="https://huggingface.co/" target="_blank">Dataset(soon)</a>]
+    [<a href="https://arxiv.org" target="_blank">Paper(soon)</a>] / [<a href="https://jyrao.github.io/UniSoccer/" target="_blank">Webpage</a>] / [<a href="https://github.com/jyrao/UniSoccer" target="_blank">Code</a>] / [<a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo(soon)</a>]
     </p>
   </div>
 </div>
@@ -48,7 +47,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <strong>MatchTime: Towards Automatic Soccer Game Commentary Generation</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://verg-avesta.github.io/" target="_blank">Chang Liu</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>In EMNLP 2024</em> <span style="color: red;">(Oral Presentation)</span><br>
-    [<a href="https://arxiv.org/pdf/2406.18530" target="_blank">PDF</a>] / [<a href="https://arxiv.org/abs/2406.18530" target="_blank">arxiv</a>] / [<a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">Page</a>] / [<a href="https://github.com/jyrao/MatchTime" target="_blank">Code</a>] / [<a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo Video</a>]
+    [<a href="https://arxiv.org/abs/2406.18530" target="_blank">Paper</a>]/ [<a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">Webpage</a>] / [<a href="https://github.com/jyrao/MatchTime" target="_blank">Code</a>] / [<a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo</a>] / [<a href="https://mp.weixin.qq.com/s/BWe6-dox21oeqJcdy2DcpA?token=1469677986&lang=zh_CN" target="_blank">WeChat</a>]
     </p>
   </div>
 </div>
