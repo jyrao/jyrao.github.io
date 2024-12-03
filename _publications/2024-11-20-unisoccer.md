@@ -15,8 +15,7 @@ paperurl: 'https://jyrao.github.io/UniSoccer/'
     <strong>Towards Universal Soccer Video Understanding</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://scholar.google.nl/citations?user=0TvdOEcAAAAJ&hl=en" target="_blank">Hao Jiang</a>, <a href="https://mediabrain.sjtu.edu.cn/yazhang/" target="_blank">Ya Zhang</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>Technical Report</em> <span style="color: red;">(New)</span><br>
-    [<a href="https://arxiv.org" target="_blank">PDF(soon)</a>] / [<a href="https://arxiv.org" target="_blank">arxiv(soon)</a>] / [<a href="https://jyrao.github.io/UniSoccer/" target="_blank">Page</a>] / [<a href="https://github.com/jyrao/UniSoccer
-    " target="_blank">Code</a>] / [<a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo Video(soon)</a>] / [<a href="https://huggingface.co/" target="_blank">Dataset(soon)</a>]
+    [<a href="https://arxiv.org/abs/2412.01820" target="_blank">Paper</a>] / [<a href="https://jyrao.github.io/UniSoccer/" target="_blank">Webpage</a>] / [<a href="https://github.com/jyrao/UniSoccer" target="_blank">Code</a>] / [<a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo(soon)</a>]
     </p>
   </div>
 </div>
