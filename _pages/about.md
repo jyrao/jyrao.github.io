@@ -14,7 +14,9 @@ I'm a 2nd-year PhD student at [Shanghai Jiao Tong University](https://en.sjtu.ed
 I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me another chance to dive into sports media industry. I believe sports is all about human's body and mentality, hope my work can truly benefits atheletics performance and sports media in the future. Feel free to contact me if interest.
 
 ## 🔥 News
-- [2024.12] Will attend [CSIG](http://youth.csig.org.cn/CSIG2024/index.html#/) @ Zhejiang University with poster presentation
+- [2024.12] Held a round table meeting around ["AI Movie & Long-form Video Understanding"](https://mp.weixin.qq.com/s/F-FpfEOHwdzdNeKakhreYg).
+- [2024.12] Awarded the '50th Edition, 50 People' Sports Talent of SJTU.
+- [2024.12] Will attend [CSIG](http://youth.csig.org.cn/CSIG2024/index.html#/) @ Zhejiang University with poster presentation.
 - [2024.11] Will attend EMNLP 2024 in person @ Miami with oral presentation.
 - [2024.9] Invited talk about AI4Sports and VLM at **[NICE](https://nice-nlp.github.io/)**, after that I will serve as a committee there.
 - [2024.9] One paper (MatchTime ⚽️) has been accepted by **EMNLP2024** as oral presentation.

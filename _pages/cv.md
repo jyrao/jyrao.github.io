@@ -33,6 +33,7 @@ Awards
 * 2022 Umich-SJTU Joint Institute Excellent Teaching Assistant
 * **2023 Shanghai Outstanding Graduate**
 * 2023-2024 Shanghai University Tennis Tournament Men's Team - Bronze Medal
+* '50th Edition, 50 People' Sports Talent Award of SJTU
 
 Compere Services
 ================
@@ -41,6 +42,7 @@ Compere Services
 * MC of Pamela Reif China Tour, Shanghai, 2023.11.4
 * Hosted 50th Sports Meeting of SJTU, 2024.5.18
 * Hosted 129 Running Festival of SJTU, 2024.12.8
+* Round table meeting around ["AI Movie & Long-form Video Understanding"](https://mp.weixin.qq.com/s/F-FpfEOHwdzdNeKakhreYg), 2024.12.16
 
 Academic Services
 =================
@@ -58,21 +60,18 @@ Teaching Assistant, University of Michigan – Shanghai Jiao Tong University Joi
 * *(FA22)* STAT4060J, Computational Methods for Statistics and Data Science, Advisor: Prof. Ailin Zhang
 * *(FA23)* BUS3680J, Architecture, Sustainability and the City, Advisor: Prof. Aline Chevalier
 
-<!-- Talks
+Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+* "When LLM Starts Narrating Soccer: About Applications of Multimodal Models in Sports" 2024.9.28 [Record Here](https://www.bilibili.com/video/BV1ZSxqesEG7/?spm_id_from=333.1387.upload.video_card.click)
 
 Work Experience
 ===============
 
 * Summer 2020: Information Technology Specialist Intern
-
   * State Grid Corporation of China
   * Duties included: Data analysis, Web maintainance
-* Fall 2021: Research Assistant
 
+* Fall 2021: Research Assistant
   * UM-SJTU JI: Efficient and Intelligent Computing Laboratory
   * Duties included: Theory construction and calculation
   * Supervisor: Professor An Zou
@@ -88,5 +87,5 @@ Service and Leadership
 Skills and Interests
 ====================
 
-* Sports: Member of SJTU tennis team, Goal Keeper in SJTU soccer team
+* Sports: Member of SJTU tennis team, Goal Keeper at SJTU soccer team
 * Music: Folk songs with guitar, Top 10 in Singers Comp of UMJI
