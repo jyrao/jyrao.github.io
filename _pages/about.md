@@ -14,12 +14,13 @@ I'm a 2nd-year PhD student at [Shanghai Jiao Tong University](https://en.sjtu.ed
 I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me another chance to dive into sports media industry. I believe sports is all about human's body and mentality, hope my work can truly benefits atheletics performance and sports media in the future. Feel free to contact me if interest.
 
 ## 🔥 News
+- [2025.2] 1 paper [UniSoccer ⚽️](https://jyrao.github.io/UniSoccer/) is accepted by CVPR 2025.
 - [2024.12] Held a round table meeting around ["AI Movie & Long-form Video Understanding"](https://mp.weixin.qq.com/s/F-FpfEOHwdzdNeKakhreYg).
 - [2024.12] Awarded the '50th Edition, 50 People' Sports Talent of SJTU.
 - [2024.12] Will attend [CSIG](http://youth.csig.org.cn/CSIG2024/index.html#/) @ Zhejiang University with poster presentation.
 - [2024.11] Will attend EMNLP 2024 in person @ Miami with oral presentation.
 - [2024.9] Invited talk about AI4Sports and VLM at **[NICE](https://nice-nlp.github.io/)**, after that I will serve as a committee there.
-- [2024.9] One paper (MatchTime ⚽️) has been accepted by **EMNLP2024** as oral presentation.
+- [2024.9] 1 paper [MatchTime ⚽️](https://haoningwu3639.github.io/MatchTime/) has been accepted by **EMNLP2024** as oral presentation.
 - [2023.12] **Bronze medal** 🥉 in the University Tennis Championships of Shanghai 🎾.
 - [2023.9] Started PhD career in SJTU and Shanghai AI Lab.
 - [2023.8] Graduate from JI  and rewarded **Shanghai Excellent Graduate** 🎓.
@@ -34,7 +35,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <p>
     <strong>Towards Universal Soccer Video Understanding</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://scholar.google.nl/citations?user=0TvdOEcAAAAJ&hl=en" target="_blank">Hao Jiang</a>, <a href="https://mediabrain.sjtu.edu.cn/yazhang/" target="_blank">Ya Zhang</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
-    <em>Technical Report</em> <span style="color: red;">(New)</span><br>
+    <em>In CVPR 2025</em> <span style="color: red;">(New)</span><br>
     [<a href="https://arxiv.org/abs/2412.01820" target="_blank">Paper</a>] / [<a href="https://jyrao.github.io/UniSoccer/" target="_blank">Webpage</a>] / [<a href="https://github.com/jyrao/UniSoccer" target="_blank">Code</a>] / [<a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo(soon)</a>]
     </p>
   </div>
