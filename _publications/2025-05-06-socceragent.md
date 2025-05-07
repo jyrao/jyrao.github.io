@@ -2,7 +2,6 @@
 title: "Multi-Agent System for Comprehensive Soccer Understanding"
 collection: preprints
 permalink: /publication/2025-05-06-soccceragent
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-05-06
 paperurl: 'https://jyrao.github.io/SoccerAgent/'
 ---
