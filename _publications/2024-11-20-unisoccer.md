@@ -15,7 +15,7 @@ paperurl: 'https://jyrao.github.io/UniSoccer/'
     <strong>Towards Universal Soccer Video Understanding</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://scholar.google.nl/citations?user=0TvdOEcAAAAJ&hl=en" target="_blank">Hao Jiang</a>, <a href="https://mediabrain.sjtu.edu.cn/yazhang/" target="_blank">Ya Zhang</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>In CVPR 2025</em> <span style="color: red;">(New)</span><br>
-    [<a href="https://arxiv.org/abs/2412.01820" target="_blank">Paper</a>] / [<a href="https://jyrao.github.io/UniSoccer/" target="_blank">Webpage</a>] / [<a href="https://github.com/jyrao/UniSoccer" target="_blank">Code</a>] / [<a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo(soon)</a>]
+    [<a href="https://arxiv.org/abs/2412.01820" target="_blank">Paper</a>] / [<a href="https://jyrao.github.io/UniSoccer/" target="_blank">Webpage</a>] / [<a href="https://github.com/jyrao/UniSoccer" target="_blank">Code</a>] / [<a href="https://huggingface.co/datasets/Homie0609/SoccerReplay-1988" target="_blank">Dataset</a>] / [<a href="https://mp.weixin.qq.com/s/mEerB8hZjkb5ZU-ercBMLA" target="_blank">WeChat</a>]
     </p>
   </div>
 </div>
