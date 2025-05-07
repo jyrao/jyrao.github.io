@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## 🔎 About Me
+## 🔎  About Me
 
 I'm a 2nd-year PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/), researching on the topic of Multi-modal Learning and AI for Science (AI4Sports) supervised by [Prof. Weidi Xie](https://weidixie.github.io/) and [Prof. Yanfeng Wang](https://cmic.sjtu.edu.cn/wangyanfeng/). I finished my undergraduate at 〽️ [UMich-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/about/) majoring in Electrical & Computer Engineering with Data Science minor degree.
 
