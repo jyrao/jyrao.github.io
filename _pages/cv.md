@@ -13,13 +13,20 @@ Education Experience
 
 * B.Eng. in Electrical and Computer Engineering, UMich-SJTU Joint Institute, 2023
 * Minor in Data Science, UMich-SJTU Joint Institute, 2023
-* Ph.D in Computer Science, Shanghai Jiao Tong University, 2028 (expected)
+* Ph.D in Computer Science, Shanghai Jiao Tong University & Shanghai AI Lab, 2028 (expected)
 
 Visiting Education
 ==================
 
 * Winter Program at Massachusetts Institute of Technology, Boston, 12/2019 ~ 01/2020
 * Exchange Student at University of Wisconsin, Madison, 01/2022 ~ 06/2022
+
+Talks
+======
+* **@NICE, Online:** "When LLM Starts Narrating Soccer: About Applications of Multimodal Models in Sports" 2024.9.28 [Record Here](https://www.bilibili.com/video/BV1ZSxqesEG7/?spm_id_from=333.1387.upload.video_card.click)
+* **@EMNLP, Miami:** Oral Presentation Session of Paper "MatchTime", 2024.11.14 [Record Here](https://www.bilibili.com/video/BV1gmUuYkEo2/?spm_id_from=333.1387.homepage.video_card.click&vd_source=458c8b66828aa3636d0dbec7ae2c472b)
+* **@NICE, Online:** Round table meeting around ["AI Movie & Long-form Video Understanding"](https://mp.weixin.qq.com/s/F-FpfEOHwdzdNeKakhreYg), 2024.12.16 [Record Here](https://www.bilibili.com/video/BV1xHkBYhEhp/?spm_id_from=333.1387.upload.video_card.click&vd_source=458c8b66828aa3636d0dbec7ae2c472b)
+* **@EA Sports, Vancouver:** Technical Construction of AI Soccer Understanding, 2025.6.19
 
 Awards
 ======
@@ -33,21 +40,23 @@ Awards
 * 2022 Umich-SJTU Joint Institute Excellent Teaching Assistant
 * **2023 Shanghai Outstanding Graduate**
 * 2023-2024 Shanghai University Tennis Tournament Men's Team - Bronze Medal
-* '50th Edition, 50 People' Sports Talent Award of SJTU
+* **'50th Edition, 50 People' Sports Talent Award of SJTU**
 
 Compere Services
 ================
 
-* MC of Shaquille O'Neal China Tour, Shanghai, 2023.9.28
-* MC of Pamela Reif China Tour, Shanghai, 2023.11.4
+* **MC of Shaquille O'Neal China Tour**, Shanghai, 2023.9.28
+* **MC of Pamela Reif China Tour**, Shanghai, 2023.11.4
 * Hosted 50th Sports Meeting of SJTU, 2024.5.18
 * Hosted 129 Running Festival of SJTU, 2024.12.8
-* Round table meeting around ["AI Movie & Long-form Video Understanding"](https://mp.weixin.qq.com/s/F-FpfEOHwdzdNeKakhreYg), 2024.12.16
+* **MC of CUBAL (Chinese University Basketball Association League)**, Shanghai, 2025.5.8-2025.5.12
+
 
 Academic Services
 =================
 
 * Committee member @ [NICE(NLP Academic Exchange Platform)](https://nice-nlp.github.io/)
+* Reviewer: ACL SRW 2025
 
 Teaching Experience
 ===================
@@ -59,10 +68,6 @@ Teaching Assistant, University of Michigan – Shanghai Jiao Tong University Joi
 * *(SU22)* CUL2610J, French Culture, Advisor: Prof. Aline Chevalier
 * *(FA22)* STAT4060J, Computational Methods for Statistics and Data Science, Advisor: Prof. Ailin Zhang
 * *(FA23)* BUS3680J, Architecture, Sustainability and the City, Advisor: Prof. Aline Chevalier
-
-Talks
-======
-* "When LLM Starts Narrating Soccer: About Applications of Multimodal Models in Sports" 2024.9.28 [Record Here](https://www.bilibili.com/video/BV1ZSxqesEG7/?spm_id_from=333.1387.upload.video_card.click)
 
 Work Experience
 ===============
@@ -87,5 +92,5 @@ Service and Leadership
 Skills and Interests
 ====================
 
-* Sports: Member of SJTU tennis team, Goal Keeper at SJTU soccer team
-* Music: Folk songs with guitar, Top 10 in Singers Comp of UMJI
+* Sports: Member of SJTU tennis team 🎾, Goal Keeper 🧤 at SJTU soccer team ⚽️
+* Music: Folk songs with guitar 🎸, Top 10 in Singers Comp of UMJI
