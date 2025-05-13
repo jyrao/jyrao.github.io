@@ -14,6 +14,7 @@ I'm a 2nd-year PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.
 I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me another chance to dive into sports media industry. I believe sports is all about human's body and mentality, hope my work can truly benefits atheletics performance and sports media in the future. Feel free to contact me if interest.
 
 ## 🔥 News
+- [2025.6] Will attend **CVPR** @Nashville and **VALSE** @Zhuhai both with poster presentation.
 - [2025.5] 1 new preprint paper [SoccerAgent ⚽️](https://jyrao.github.io/SoccerAgent/).
 - [2025.4] Passed Doctoral Qualification Examination.
 - [2025.2] 1 paper [UniSoccer ⚽️](https://jyrao.github.io/UniSoccer/) is accepted by CVPR 2025.
@@ -38,7 +39,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <strong>Multi-Agent System for Comprehensive Soccer Understanding</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://openreview.net/profile?id=~Zifeng_Li3" target="_blank">Zifeng Li*</a>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://mediabrain.sjtu.edu.cn/yazhang/" target="_blank">Ya Zhang</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>In Submission</em> <span style="color: red;">(New)</span><br>
-    [<a href="https://arxiv.org/abs/2505.03735" target="_blank">Paper</a>] / [<a href="https://jyrao.github.io/SoccerAgent/" target="_blank">Webpage</a>] / [<a href="https://github.com/jyrao/SoccerAgent" target="_blank">Code</a>] / [<a href="https://huggingface.co/" target="_blank">Dataset (soon)</a>]
+    [<a href="https://arxiv.org/abs/2505.03735" target="_blank">Paper</a>] / [<a href="https://jyrao.github.io/SoccerAgent/" target="_blank">Webpage</a>] / [<a href="https://github.com/jyrao/SoccerAgent" target="_blank">Code</a>] / [<a href="https://huggingface.co/datasets/Homie0609/SoccerBench" target="_blank">Dataset</a>]
     </p>
   </div>
 </div>
