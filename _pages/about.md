@@ -15,6 +15,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 
 ## 🔥 News
 - [2025.6] Will attend **CVPR** @Nashville and **VALSE** @Zhuhai both with poster presentation.
+- [2025.5] **Silver medal** 🥈 in Shanghai University Football League Cup ⚽️🏆.
 - [2025.5] 1 new preprint paper [SoccerAgent ⚽️](https://jyrao.github.io/SoccerAgent/).
 - [2025.4] Passed Doctoral Qualification Examination.
 - [2025.2] 1 paper [UniSoccer ⚽️](https://jyrao.github.io/UniSoccer/) is accepted by CVPR 2025.
