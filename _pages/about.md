@@ -14,6 +14,7 @@ I'm a 2nd-year PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.
 I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me another chance to dive into sports media industry. I believe sports is all about human's body and mentality, hope my work can truly benefits atheletics performance and sports media in the future. Feel free to contact me if interest.
 
 ## 🔥 News
+- [2025.6] Invited talk at **EA**, "EA Sports, it's in the game!" 
 - [2025.6] Will attend **CVPR** @Nashville and **VALSE** @Zhuhai both with poster presentation.
 - [2025.5] **Silver medal** 🥈 in Shanghai University Football League Cup ⚽️🏆.
 - [2025.5] 1 new preprint paper [SoccerAgent ⚽️](https://jyrao.github.io/SoccerAgent/).
