@@ -23,10 +23,10 @@ Visiting Education
 
 Talks
 ======
-* **@NICE, Online:** "When LLM Starts Narrating Soccer: About Applications of Multimodal Models in Sports" 2024.9.28 [Record Here](https://www.bilibili.com/video/BV1ZSxqesEG7/?spm_id_from=333.1387.upload.video_card.click)
-* **@EMNLP, Miami:** Oral Presentation Session of Paper "MatchTime", 2024.11.14 [Record Here](https://www.bilibili.com/video/BV1gmUuYkEo2/?spm_id_from=333.1387.homepage.video_card.click&vd_source=458c8b66828aa3636d0dbec7ae2c472b)
-* **@NICE, Online:** Round table meeting around ["AI Movie & Long-form Video Understanding"](https://mp.weixin.qq.com/s/F-FpfEOHwdzdNeKakhreYg), 2024.12.16 [Record Here](https://www.bilibili.com/video/BV1xHkBYhEhp/?spm_id_from=333.1387.upload.video_card.click&vd_source=458c8b66828aa3636d0dbec7ae2c472b)
-* **@EA Sports, Vancouver:** Technical Construction of AI Soccer Understanding, 2025.6.19
+* **@NICE, Online:** "When LLM Starts Narrating Soccer: About Applications of Multimodal Models in Sports" 2024.9.28 [[Record Here]](https://www.bilibili.com/video/BV1ZSxqesEG7/?spm_id_from=333.1387.upload.video_card.click)
+* **@EMNLP, Miami:** Oral Presentation Session of Paper "MatchTime", 2024.11.14 [[Record Here]](https://www.bilibili.com/video/BV1gmUuYkEo2/?spm_id_from=333.1387.homepage.video_card.click&vd_source=458c8b66828aa3636d0dbec7ae2c472b)
+* **@NICE, Online:** Round table meeting around "AI Movie & Long-form Video Understanding", 2024.12.16 [[Record Here]](https://www.bilibili.com/video/BV1xHkBYhEhp/?spm_id_from=333.1387.upload.video_card.click&vd_source=458c8b66828aa3636d0dbec7ae2c472b)
+* **@EA Sports, Vancouver:** Building Soccer AI: From Visual Understanding to Holistic Game Intelligence, 2025.6.26
 
 Awards
 ======
@@ -49,7 +49,9 @@ Compere Services
 * **MC of Pamela Reif China Tour**, Shanghai, 2023.11.4
 * Hosted 50th Sports Meeting of SJTU, 2024.5.18
 * Hosted 129 Running Festival of SJTU, 2024.12.8
-* **MC of CUBAL (Chinese University Basketball Association League)**, Shanghai, 2025.5.8-2025.5.12
+* **MC of CUBAL** (Chinese University Basketball Association League), Shanghai, 2025.5.8-2025.5.12
+
+* **@NICE:** Sharing session of ACL 2025, ICLR 2025, ICML 2025; Weekly sharing.
 
 
 Academic Services

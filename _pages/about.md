@@ -14,19 +14,19 @@ I'm a 2nd-year PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.
 I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me another chance to dive into sports media industry. I believe sports is all about human's body and mentality, hope my work can truly benefits atheletics performance and sports media in the future. Feel free to contact me if interest.
 
 ## 🔥 News
-- [2025.6] Invited talk at **EA**, "EA Sports, it's in the game!" 
+- [2025.6] Invited talk at [**EA** 🎮](https://www.ea.com/), *"EA Sports, it's in the game!"* 
 - [2025.6] Will attend **CVPR** @Nashville and **VALSE** @Zhuhai both with poster presentation.
-- [2025.5] **Silver medal** 🥈 in Shanghai University Football League Cup ⚽️🏆.
-- [2025.5] 1 new preprint paper [SoccerAgent ⚽️](https://jyrao.github.io/SoccerAgent/).
+- [2025.5] **Silver medal** 🥈⚽️ in Shanghai University Football League Cup.
+<!-- - [2025.5] 1 new preprint paper [**SoccerAgent**](https://jyrao.github.io/SoccerAgent/). -->
 - [2025.4] Passed Doctoral Qualification Examination.
-- [2025.2] 1 paper [UniSoccer ⚽️](https://jyrao.github.io/UniSoccer/) is accepted by CVPR 2025.
-- [2024.12] Held a round table meeting around ["AI Movie & Long-form Video Understanding"](https://mp.weixin.qq.com/s/F-FpfEOHwdzdNeKakhreYg).
+- [2025.2] 1 paper [**UniSoccer**](https://jyrao.github.io/UniSoccer/) is accepted by CVPR 2025.
+- [2024.12] Held [**"AI Movie & Long-form Video Understanding"**](https://mp.weixin.qq.com/s/F-FpfEOHwdzdNeKakhreYg).
 - [2024.12] Awarded the '50th Edition, 50 People' Sports Talent of SJTU.
-- [2024.12] Will attend [CSIG](http://youth.csig.org.cn/CSIG2024/index.html#/) @ Zhejiang University with poster presentation.
-- [2024.11] Will attend EMNLP 2024 in person @ Miami with oral presentation.
-- [2024.9] Invited talk about AI4Sports and VLM at **[NICE](https://nice-nlp.github.io/)**, after that I will serve as a committee there.
-- [2024.9] 1 paper [MatchTime ⚽️](https://haoningwu3639.github.io/MatchTime/) has been accepted by **EMNLP2024** as oral presentation.
-- [2023.12] **Bronze medal** 🥉 in the University Tennis Championships of Shanghai 🎾.
+- [2024.12] Will attend [**CSIG**](http://youth.csig.org.cn/CSIG2024/index.html#/) @ Zhejiang University with poster presentation.
+- [2024.11] Will attend [**EMNLP**](https://2024.emnlp.org/) @ Miami with oral presentation.
+- [2024.9] Invited talk about AI4Sports and VLM at [**NICE**](https://nice-nlp.github.io/), after that I will serve as a committee there.
+- [2024.9] 1 paper [**MatchTime**](https://haoningwu3639.github.io/MatchTime/) has been accepted by [**EMNLP 2024**](https://2024.emnlp.org/) as oral presentation.
+- [2023.12] Bronze medal 🥉🎾 in the University Tennis Championships of Shanghai.
 - [2023.9] Started PhD career in SJTU and Shanghai AI Lab.
 - [2023.8] Graduate from JI  and rewarded **Shanghai Excellent Graduate** 🎓.
 
