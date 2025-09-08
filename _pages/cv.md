@@ -35,12 +35,16 @@ Awards
 * 2021-2022 SJTU C-Scholarship
 * 2021-2022 SJTU 3-Good Student
 * 2021 SJTU Exccellent Youth Volunteer
-* 2021-2022 SJTU Tennis Tournament Men's Single - Silver Medal
+* 2021 SJTU Tennis Tournament Men's Single - Silver Medal
 * 2022 Excellent League Member
 * 2022 Umich-SJTU Joint Institute Excellent Teaching Assistant
 * **2023 Shanghai Outstanding Graduate**
 * 2023-2024 Shanghai University Tennis Tournament Men's Team - Bronze Medal
 * **'50th Edition, 50 People' Sports Talent Award of SJTU**
+* 2025 Shanghai University Football League Cup - Silver Medal
+* 2025 SJTU Football Hope Cup - Silver Medal
+* 2025 SJTU Football Zhiyuan Cup - Silver Medal
+* 2025 Chinese University Tennis Competition (Final Stage) Men's Team - No.5
 
 Compere Services
 ================
@@ -50,15 +54,16 @@ Compere Services
 * Hosted 50th Sports Meeting of SJTU, 2024.5.18
 * Hosted 129 Running Festival of SJTU, 2024.12.8
 * **MC of CUBAL** (Chinese University Basketball Association League), Shanghai, 2025.5.8-2025.5.12
+* **MC of LeBron James China Tour**, Shanghai, 2025.9.4
 
-* **@NICE:** Sharing session of ACL 2025, ICLR 2025, ICML 2025; Weekly sharing.
+* **@NICE:** Sharing session of ACL 2025, ICLR 2025, ICML 2025, ICCV 2025; Weekly sharing.
 
 
 Academic Services
 =================
 
 * Committee member @ [NICE(NLP Academic Exchange Platform)](https://nice-nlp.github.io/)
-* Reviewer: ACL SRW 2025
+* Reviewer: ACL SRW 2025, Journal of Sports Analysis, IET CV
 
 Teaching Experience
 ===================
