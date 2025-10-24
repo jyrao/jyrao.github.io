@@ -14,7 +14,9 @@ I'm a 3rd-year PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.
 I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me another chance to dive into sports media industry. I believe sports is all about human's body and mentality, hope my work can truly benefits atheletics performance and sports media in the future. Feel free to contact me if interest.
 
 ## 🔥 News
-- [2025.9] Baseline codes and database of [**SoccerAgent**](https://jyrao.github.io/SoccerAgent/) has been released!
+- [2025.10] Launch [**SN-VQA**](https://www.soccer-net.org/challenges/2026)(Soccer Visual Question Answering) Challenge⚽️🏆 @ [CVPR2026](https://cvpr.thecvf.com/) with $1,000💰 prize!
+- [2025.10] Will attend [**ACM Multimedia 2025**](https://acmmm2025.org/) @ Dublin as session chair.
+<!-- - [2025.9] Baseline codes and database of [**SoccerAgent**](https://jyrao.github.io/SoccerAgent/) has been released! -->
 - [2025.9] Will give doctorial symposium and research demo in [**ISACE**](https://formal-analysis.com/isace/2025/) in Shanghai.
 - [2025.8] 1 abstract accepted by [**CCSS**](https://2025ccss.scimeeting.cn/), see you in November in Wuhan.
 - [2025.8] National Rank 5 🎾 in Chinese University Tennis Competition (Final Stage) Men's Team.
