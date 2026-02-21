@@ -14,7 +14,7 @@ paperurl: 'https://haolinyang-hlyang.github.io/SoccerMaster/'
     <p>
     <strong>SoccerMaster: A Vision Foundation Model for Soccer Understanding</strong><br>
     <a href="https://haolinyang-hlyang.github.io/" target="_blank"> Haolin Yang</a>, <strong>Jiayuan Rao</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
-    <em>Technical Report</em> <span style="color: red;">(New)</span><br>
+    <em>CVPR 2026</em> <span style="color: red;">(New)</span><br>
     [<a href="https://arxiv.org/abs/2512.11016" target="_blank">Paper</a>] / [<a href="https://haolinyang-hlyang.github.io/SoccerMaster/" target="_blank">Webpage</a>] / [<a href="https://github.com/haolinyang-hlyang/SoccerMaster" target="_blank">Code</a>] / [<a href="https://huggingface.co" target="_blank">Dataset (soon)</a>]
     </p>
   </div>
