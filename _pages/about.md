@@ -19,7 +19,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 
 <div class="news-scroll" markdown="1" aria-label="Recent news">
 
-- [2026.04] New preprint [**GenTac**](https://jyrao.github.io/GenTac/) is released: generative modeling and forecasting of soccer tactics. [[Paper](https://arxiv.org/abs/2604.11786)] [[Code](https://github.com/jyrao/GenTac)]
+- [2026.04] New preprint [**GenTac**](https://jyrao.github.io/GenTac/) is released: generative modeling and forecasting of soccer tactics.
 - [2026.02] Started as visiting researcher @ [**KAUST**](https://www.kaust.edu.sa/en/) and [**FIFA Research Institute**](https://www.kaust.edu.sa/en/news/kaust-becomes-first-fifa-research-institute-in-the-middle-east-and-asia).
 - [2026.02] 1 paper [**SoccerMaster**](https://haolinyang-hlyang.github.io/SoccerMaster/) is accepted by [**CVPR 2026**](https://cvpr.thecvf.com/Conferences/2026) as an **Oral** presentation.
 - [2025.11] Hosted [**NICE Agent 2025 Event**](https://mp.weixin.qq.com/s/DjGrnVjDqw_bRhRGndQ8AA) @ Shanghai.
