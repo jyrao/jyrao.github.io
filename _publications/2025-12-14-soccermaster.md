@@ -6,15 +6,15 @@ date: 2025-12-14
 paperurl: 'https://haolinyang-hlyang.github.io/SoccerMaster/'
 
 ---
-<div style="display: flex; align-items: center;"> <!-- 添加align-items: center; 来垂直居中所有子元素 -->
-  <div style="flex: 1; width: 25%; text-align: center; margin-right: 5%;"> <!-- text-align: center; 用于水平居中图片 -->
-    <img src="https://haolinyang-hlyang.github.io/SoccerMaster/static/images/teaser.jpg" style="width: 100%; max-width: 100%; height: auto;" alt="描述">
+<div class="research-item">
+  <div class="research-figure">
+    <img src="https://haolinyang-hlyang.github.io/SoccerMaster/static/images/teaser.jpg" alt="SoccerMaster teaser">
   </div>
-  <div style="flex: 3; width: 75%;">
+  <div class="research-copy">
     <p>
     <strong>SoccerMaster: A Vision Foundation Model for Soccer Understanding</strong><br>
     <a href="https://haolinyang-hlyang.github.io/" target="_blank"> Haolin Yang</a>, <strong>Jiayuan Rao</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
-    <em>In CVPR 2026</em> <span style="color: red;">(New)</span><br>
+    <em>In CVPR 2026</em> <span style="color: red;">(Oral)</span><br>
     [<a href="https://arxiv.org/abs/2512.11016" target="_blank">Paper</a>] / [<a href="https://haolinyang-hlyang.github.io/SoccerMaster/" target="_blank">Webpage</a>] / [<a href="https://github.com/haolinyang-hlyang/SoccerMaster" target="_blank">Code</a>] / [<a href="https://huggingface.co" target="_blank">Dataset (soon)</a>]
     </p>
   </div>

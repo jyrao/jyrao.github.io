@@ -16,8 +16,12 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 
 
 ## 🔥 News
+
+<div class="news-scroll" markdown="1" aria-label="Recent news">
+
+- [2026.04] New preprint [**GenTac**](https://jyrao.github.io/GenTac/) is released: generative modeling and forecasting of soccer tactics. [[Paper](https://arxiv.org/abs/2604.11786)] [[Code](https://github.com/jyrao/GenTac)]
 - [2026.02] Started as visiting researcher @ [**KAUST**](https://www.kaust.edu.sa/en/) and [**FIFA Research Institute**](https://www.kaust.edu.sa/en/news/kaust-becomes-first-fifa-research-institute-in-the-middle-east-and-asia).
-- [2026.02] 1 paper [**SoccerMaster**](https://haolinyang-hlyang.github.io/SoccerMaster/) is accepted by [**CVPR 2026**](https://cvpr.thecvf.com/Conferences/2026).
+- [2026.02] 1 paper [**SoccerMaster**](https://haolinyang-hlyang.github.io/SoccerMaster/) is accepted by [**CVPR 2026**](https://cvpr.thecvf.com/Conferences/2026) as an **Oral** presentation.
 - [2025.11] Hosted [**NICE Agent 2025 Event**](https://mp.weixin.qq.com/s/DjGrnVjDqw_bRhRGndQ8AA) @ Shanghai.
 - [2025.11] Bronze medal 🥉🎾 in the University Tennis Championships of Shanghai.
 - [2025.10] Launch [**SN-VQA**](https://www.soccer-net.org/challenges/2026) (Soccer Visual Question Answering) Challenge ⚽️🏆 @ [**CVPR2026**](https://cvpr.thecvf.com/), join our challenge for $1,000💰 prize!
@@ -44,27 +48,45 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 - [2023.9] Started PhD career in SJTU and Shanghai AI Lab.
 - [2023.8] Graduate from JI and rewarded **Shanghai Excellent Graduate** 🎓.
 
+</div>
+
 ## 📝 Research
 
-<div style="display: flex; align-items: center;"> <!-- 添加align-items: center; 来垂直居中所有子元素 -->
-  <div style="flex: 1; width: 25%; text-align: center; margin-right: 5%;"> <!-- text-align: center; 用于水平居中图片 -->
-    <img src="https://haolinyang-hlyang.github.io/SoccerMaster/static/images/teaser.jpg" style="width: 100%; max-width: 100%; height: auto;" alt="描述">
+<div class="research-list">
+
+<div class="research-item">
+  <div class="research-figure">
+    <img src="/images/research/gentac-teaser.png" alt="GenTac teaser">
   </div>
-  <div style="flex: 3; width: 75%;">
+  <div class="research-copy">
+    <p>
+    <strong>GenTac: Generative Modeling and Forecasting of Soccer Tactics</strong><br>
+    <strong>Jiayuan Rao</strong>, <a href="https://github.com/tianlingui" target="_blank">Tianlin Gui</a>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
+    <em>In submission</em> <span style="color: red;">(New)</span><br>
+    [<a href="https://arxiv.org/abs/2604.11786" target="_blank">Paper</a>] / [<a href="https://arxiv.org/pdf/2604.11786" target="_blank">PDF</a>] / [<a href="https://jyrao.github.io/GenTac/" target="_blank">Webpage</a>] / [<a href="https://github.com/jyrao/GenTac" target="_blank">Code</a>]
+    </p>
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-figure">
+    <img src="https://haolinyang-hlyang.github.io/SoccerMaster/static/images/teaser.jpg" alt="SoccerMaster teaser">
+  </div>
+  <div class="research-copy">
     <p>
     <strong>SoccerMaster: A Vision Foundation Model for Soccer Understanding</strong><br>
     <a href="https://haolinyang-hlyang.github.io/" target="_blank"> Haolin Yang</a>, <strong>Jiayuan Rao</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
-    <em>In CVPR 2026</em> <span style="color: red;">(New)</span><br>
+    <em>In CVPR 2026</em> <span style="color: red;">(Oral)</span><br>
     [<a href="https://arxiv.org/abs/2512.11016" target="_blank">Paper</a>] / [<a href="https://haolinyang-hlyang.github.io/SoccerMaster/" target="_blank">Webpage</a>] / [<a href="https://github.com/haolinyang-hlyang/SoccerMaster" target="_blank">Code</a>] / [<a href="https://huggingface.co" target="_blank">Dataset (soon)</a>]
     </p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center;"> <!-- 添加align-items: center; 来垂直居中所有子元素 -->
-  <div style="flex: 1; width: 25%; text-align: center; margin-right: 5%;"> <!-- text-align: center; 用于水平居中图片 -->
-    <img src="https://jyrao.github.io/SoccerAgent/static/images/agent.png" style="width: 100%; max-width: 100%; height: auto;" alt="描述">
+<div class="research-item">
+  <div class="research-figure">
+    <img src="https://jyrao.github.io/SoccerAgent/static/images/agent.png" alt="SoccerAgent teaser">
   </div>
-  <div style="flex: 3; width: 75%;">
+  <div class="research-copy">
     <p>
     <strong>Multi-Agent System for Comprehensive Soccer Understanding</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://openreview.net/profile?id=~Zifeng_Li3" target="_blank">Zifeng Li*</a>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://mediabrain.sjtu.edu.cn/yazhang/" target="_blank">Ya Zhang</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
@@ -74,11 +96,11 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
   </div>
 </div>
 
-<div style="display: flex; align-items: center;"> <!-- 添加align-items: center; 来垂直居中所有子元素 -->
-  <div style="flex: 1; width: 25%; text-align: center; margin-right: 5%;"> <!-- text-align: center; 用于水平居中图片 -->
-    <img src="https://github.com/jyrao/jyrao.github.io/blob/master/images/research/unisoccer.png?raw=true" style="width: 100%; max-width: 100%; height: auto;" alt="描述">
+<div class="research-item">
+  <div class="research-figure">
+    <img src="/images/research/unisoccer.png" alt="UniSoccer teaser">
   </div>
-  <div style="flex: 3; width: 75%;">
+  <div class="research-copy">
     <p>
     <strong>Towards Universal Soccer Video Understanding</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://scholar.google.nl/citations?user=0TvdOEcAAAAJ&hl=en" target="_blank">Hao Jiang</a>, <a href="https://mediabrain.sjtu.edu.cn/yazhang/" target="_blank">Ya Zhang</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
@@ -88,11 +110,11 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
   </div>
 </div>
 
-<div style="display: flex; align-items: center;"> <!-- 添加align-items: center; 来垂直居中所有子元素 -->
-  <div style="flex: 1; width: 25%; text-align: center; margin-right: 5%;"> <!-- text-align: center; 用于水平居中图片 -->
-    <img src="https://github.com/jyrao/jyrao.github.io/blob/master/images/research/matchtime.png?raw=true" style="width: 100%; max-width: 100%; height: auto;" alt="描述">
+<div class="research-item">
+  <div class="research-figure">
+    <img src="/images/research/matchtime.png" alt="MatchTime teaser">
   </div>
-  <div style="flex: 3; width: 75%;">
+  <div class="research-copy">
     <p>
     <strong>MatchTime: Towards Automatic Soccer Game Commentary Generation</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://verg-avesta.github.io/" target="_blank">Chang Liu</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
@@ -100,6 +122,8 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     [<a href="https://arxiv.org/abs/2406.18530" target="_blank">Paper</a>]/ [<a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">Webpage</a>] / [<a href="https://github.com/jyrao/MatchTime" target="_blank">Code</a>] / [<a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo</a>] / [<a href="https://mp.weixin.qq.com/s/BWe6-dox21oeqJcdy2DcpA?token=1469677986&lang=zh_CN" target="_blank">WeChat</a>]
     </p>
   </div>
+</div>
+
 </div>
 
 ## 🕰️ My Past

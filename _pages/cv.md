@@ -21,6 +21,15 @@ Visiting Education
 * Winter Program at Massachusetts Institute of Technology, Boston, 12/2019 ~ 01/2020
 * Exchange Student at University of Wisconsin, Madison, 01/2022 ~ 06/2022
 
+Selected Publications
+=====================
+
+* **GenTac: Generative Modeling and Forecasting of Soccer Tactics**, Jiayuan Rao, Tianlin Gui, Haoning Wu, Yanfeng Wang, Weidi Xie. *In submission*, 2026. [[Webpage](https://jyrao.github.io/GenTac/)] [[arXiv](https://arxiv.org/abs/2604.11786)] [[Code](https://github.com/jyrao/GenTac)]
+* **SoccerMaster: A Vision Foundation Model for Soccer Understanding**, Haolin Yang, Jiayuan Rao, Haoning Wu, Weidi Xie. *CVPR Oral*, 2026. [[Webpage](https://haolinyang-hlyang.github.io/SoccerMaster/)] [[arXiv](https://arxiv.org/abs/2512.11016)]
+* **Multi-Agent System for Comprehensive Soccer Understanding**, Jiayuan Rao, Zifeng Li, Haoning Wu, Ya Zhang, Yanfeng Wang, Weidi Xie. *ACM Multimedia*, 2025. [[Webpage](https://jyrao.github.io/SoccerAgent/)] [[arXiv](https://arxiv.org/abs/2505.03735)] [[Code](https://github.com/jyrao/SoccerAgent)]
+* **Towards Universal Soccer Video Understanding**, Jiayuan Rao, Haoning Wu, Hao Jiang, Ya Zhang, Yanfeng Wang, Weidi Xie. *CVPR*, 2025. [[Webpage](https://jyrao.github.io/UniSoccer/)] [[arXiv](https://arxiv.org/abs/2412.01820)] [[Code](https://github.com/jyrao/UniSoccer)]
+* **MatchTime: Towards Automatic Soccer Game Commentary Generation**, Jiayuan Rao, Haoning Wu, Chang Liu, Yanfeng Wang, Weidi Xie. *EMNLP Oral*, 2024. [[Webpage](https://haoningwu3639.github.io/MatchTime/)] [[arXiv](https://arxiv.org/abs/2406.18530)] [[Code](https://github.com/jyrao/MatchTime)]
+
 Talks
 ======
 * **@NICE, Online:** "When LLM Starts Narrating Soccer: About Applications of Multimodal Models in Sports" 2024.9.28 [[Record Here]](https://www.bilibili.com/video/BV1ZSxqesEG7/?spm_id_from=333.1387.upload.video_card.click)
