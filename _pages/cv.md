@@ -25,7 +25,7 @@ Selected Publications
 =====================
 
 * **GenTac: Generative Modeling and Forecasting of Soccer Tactics**, Jiayuan Rao, Tianlin Gui, Haoning Wu, Yanfeng Wang, Weidi Xie. *In submission*, 2026. [[Webpage](https://jyrao.github.io/GenTac/)] [[arXiv](https://arxiv.org/abs/2604.11786)] [[Code](https://github.com/jyrao/GenTac)]
-* **SoccerMaster: A Vision Foundation Model for Soccer Understanding**, Haolin Yang, Jiayuan Rao, Haoning Wu, Weidi Xie. *CVPR Oral*, 2026. [[Webpage](https://haolinyang-hlyang.github.io/SoccerMaster/)] [[arXiv](https://arxiv.org/abs/2512.11016)]
+* **SoccerMaster: A Vision Foundation Model for Soccer Understanding**, Haolin Yang, Jiayuan Rao, Haoning Wu, Weidi Xie. *CVPR*, 2026. **(Oral \| Best Paper Candidate🏆)** [[Webpage](https://haolinyang-hlyang.github.io/SoccerMaster/)] [[arXiv](https://arxiv.org/abs/2512.11016)]
 * **Multi-Agent System for Comprehensive Soccer Understanding**, Jiayuan Rao, Zifeng Li, Haoning Wu, Ya Zhang, Yanfeng Wang, Weidi Xie. *ACM Multimedia*, 2025. [[Webpage](https://jyrao.github.io/SoccerAgent/)] [[arXiv](https://arxiv.org/abs/2505.03735)] [[Code](https://github.com/jyrao/SoccerAgent)]
 * **Towards Universal Soccer Video Understanding**, Jiayuan Rao, Haoning Wu, Hao Jiang, Ya Zhang, Yanfeng Wang, Weidi Xie. *CVPR*, 2025. [[Webpage](https://jyrao.github.io/UniSoccer/)] [[arXiv](https://arxiv.org/abs/2412.01820)] [[Code](https://github.com/jyrao/UniSoccer)]
 * **MatchTime: Towards Automatic Soccer Game Commentary Generation**, Jiayuan Rao, Haoning Wu, Chang Liu, Yanfeng Wang, Weidi Xie. *EMNLP Oral*, 2024. [[Webpage](https://haoningwu3639.github.io/MatchTime/)] [[arXiv](https://arxiv.org/abs/2406.18530)] [[Code](https://github.com/jyrao/MatchTime)]

@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## 🔎  About Me
 
-I'm a 3rd-year PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/), researching on Multi-modal Learning and AI for Science (AI4Sports) supervised by [Prof. Weidi Xie](https://weidixie.github.io/) and [Prof. Yanfeng Wang](https://cmic.sjtu.edu.cn/wangyanfeng/). I finished my undergraduate at [UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/about/) majoring in Electrical & Computer Engineering with Data Science minor degree. Currently, I'm visiting at [KAUST](https://www.kaust.edu.sa/en/) and [FIFA Research Institute](https://www.kaust.edu.sa/en/news/kaust-becomes-first-fifa-research-institute-in-the-middle-east-and-asia) with [Prof. Bernard Ghanem](https://www.bernardghanem.com/) and [SoccerNet team](https://www.soccer-net.org/).
+I'm a 3rd-year PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/), researching on Multi-modal Learning and AI for Science (AI4Sports) supervised by [Prof. Weidi Xie](https://weidixie.github.io/) and [Prof. Yanfeng Wang](https://cmic.sjtu.edu.cn/wangyanfeng/). I finished my undergraduate at [UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/about/) majoring in Electrical & Computer Engineering with Data Science minor degree. Currently, I'm visiting at [KAUST](https://www.kaust.edu.sa/en/) and [FIFA Research Institute](https://www.kaust.edu.sa/en/news/kaust-becomes-first-fifa-research-institute-in-the-middle-east-and-asia) with [Prof. Bernard Ghanem](https://www.bernardghanem.com/) and [SoccerNet team](https://www.soccer-net.org/). I'm also building an AI sports startup, hoping to let more people feel the passion and joy of sports through AI.
 
 I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me another chance to dive into sports media industry. I believe sports is all about human's body and mentality, hope my work can truly benefits atheletics performance and sports media in the future. Feel free to contact me if interest.
 
@@ -19,12 +19,14 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 
 <div class="news-scroll" markdown="1" aria-label="Recent news">
 
+- [2026.05] [**SoccerMaster**](https://haolinyang-hlyang.github.io/SoccerMaster/) is selected as a **CVPR 2026 Best Paper Candidate** 🏆
+- [2026.05] An AI-powered sports viewing product [**MatchMate**](https://www.matchmate.tv/) for the World Cup now in closed beta! **[Join here!](/images/product/matchmate-qr.jpeg)**
 - [2026.04] New preprint [**GenTac**](https://jyrao.github.io/GenTac/) is released: generative modeling and forecasting of soccer tactics.
 - [2026.02] Started as visiting researcher @ [**KAUST**](https://www.kaust.edu.sa/en/) and [**FIFA Research Institute**](https://www.kaust.edu.sa/en/news/kaust-becomes-first-fifa-research-institute-in-the-middle-east-and-asia).
 - [2026.02] 1 paper [**SoccerMaster**](https://haolinyang-hlyang.github.io/SoccerMaster/) is accepted by [**CVPR 2026**](https://cvpr.thecvf.com/Conferences/2026) as an **Oral** presentation.
 - [2025.11] Hosted [**NICE Agent 2025 Event**](https://mp.weixin.qq.com/s/DjGrnVjDqw_bRhRGndQ8AA) @ Shanghai.
 - [2025.11] Bronze medal 🥉🎾 in the University Tennis Championships of Shanghai.
-- [2025.10] Launch [**SN-VQA**](https://www.soccer-net.org/challenges/2026) (Soccer Visual Question Answering) Challenge ⚽️🏆 @ [**CVPR2026**](https://cvpr.thecvf.com/), join our challenge for $1,000💰 prize!
+- [2025.10] Launch [**SN-VQA**](https://www.soccer-net.org/challenges/2026) Challenge ⚽️🏆 @ [**CVPR2026**](https://cvpr.thecvf.com/), join for $1,000💰 prize!
 - [2025.10] Will attend [**ACM Multimedia 2025**](https://acmmm2025.org/) @ Dublin as session chair.
 <!-- - [2025.9] Baseline codes and database of [**SoccerAgent**](https://jyrao.github.io/SoccerAgent/) has been released! -->
 - [2025.9] Will give doctorial symposium and research demo in [**ISACE**](https://formal-analysis.com/isace/2025/) @ Shanghai.
@@ -62,7 +64,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <p>
     <strong>GenTac: Generative Modeling and Forecasting of Soccer Tactics</strong><br>
     <strong>Jiayuan Rao</strong>, <a href="https://github.com/tianlingui" target="_blank">Tianlin Gui</a>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
-    <em>In submission</em> <span style="color: red;">(New)</span><br>
+    <em>In submission</em> <span style="color: red;"><strong>(New)</strong></span><br>
     [<a href="https://arxiv.org/abs/2604.11786" target="_blank">Paper</a>] / [<a href="https://arxiv.org/pdf/2604.11786" target="_blank">PDF</a>] / [<a href="https://jyrao.github.io/GenTac/" target="_blank">Webpage</a>] / [<a href="https://github.com/jyrao/GenTac" target="_blank">Code</a>]
     </p>
   </div>
@@ -76,7 +78,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <p>
     <strong>SoccerMaster: A Vision Foundation Model for Soccer Understanding</strong><br>
     <a href="https://haolinyang-hlyang.github.io/" target="_blank"> Haolin Yang</a>, <strong>Jiayuan Rao</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
-    <em>In CVPR 2026</em> <span style="color: red;">(Oral)</span><br>
+    <em>In CVPR 2026</em> <span style="color: red;"><strong>(Oral | Best Paper Candidate🏆)</strong></span><br>
     [<a href="https://arxiv.org/abs/2512.11016" target="_blank">Paper</a>] / [<a href="https://haolinyang-hlyang.github.io/SoccerMaster/" target="_blank">Webpage</a>] / [<a href="https://github.com/haolinyang-hlyang/SoccerMaster" target="_blank">Code</a>] / [<a href="https://huggingface.co" target="_blank">Dataset (soon)</a>]
     </p>
   </div>
@@ -118,12 +120,28 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <p>
     <strong>MatchTime: Towards Automatic Soccer Game Commentary Generation</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://verg-avesta.github.io/" target="_blank">Chang Liu</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
-    <em>In EMNLP 2024</em> <span style="color: red;">(Oral)</span><br>
+    <em>In EMNLP 2024</em> <span style="color: red;"><strong>(Oral)</strong></span><br>
     [<a href="https://arxiv.org/abs/2406.18530" target="_blank">Paper</a>]/ [<a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">Webpage</a>] / [<a href="https://github.com/jyrao/MatchTime" target="_blank">Code</a>] / [<a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo</a>] / [<a href="https://mp.weixin.qq.com/s/BWe6-dox21oeqJcdy2DcpA?token=1469677986&lang=zh_CN" target="_blank">WeChat</a>]
     </p>
   </div>
 </div>
 
+</div>
+
+## 🚀 Product
+
+<div class="research-list">
+<div class="research-item">
+  <div class="research-figure">
+    <img src="/images/product/matchmate-logo.png" alt="MatchMate logo">
+  </div>
+  <div class="research-copy">
+    <p>
+    <span class="product-title">MatchMate</span> <span class="product-links">[<a href="https://www.matchmate.tv/" target="_blank">Website</a>] / [<a href="/images/product/matchmate-qr.jpeg" target="_blank">Join Here</a>]</span><br>
+    Your AI live football companion for <strong>real-time, personalized match watching</strong>. Ask anything during the game and get instant answers with <strong>live data</strong>, <strong>tactical context</strong>, and your preferred commentary style. MatchMate brings together second-screen Q&A, automatic stat summaries, customizable voices, and flexible viewing across phone, desktop, full-screen, and multi-match switching.
+    </p>
+  </div>
+</div>
 </div>
 
 ## 🕰️ My Past
