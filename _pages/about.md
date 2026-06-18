@@ -19,6 +19,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 
 <div class="news-scroll" markdown="1" aria-label="Recent news">
 
+- [2026.06] Invited talk about AI4Sports research and [**startup**](https://www.matchmate.tv/) @ [**NICE**](https://nice-intl.github.io/), [**recorded here**](https://mp.weixin.qq.com/s/V7hxQvXLgFpRFYvK32-ZJw).
 - [2026.05] [**SoccerMaster**](https://haolinyang-hlyang.github.io/SoccerMaster/) is selected as a **CVPR 2026 Award Candidate**
 - [2026.05] An AI-powered sports viewing product [**MatchMate**](https://www.matchmate.tv/) for the World Cup now in closed beta! **[Join here!](/images/product/matchmate-qr.jpeg)**
 - [2026.04] New preprint [**GenTac**](https://jyrao.github.io/GenTac/) is released: generative modeling and forecasting of soccer tactics.

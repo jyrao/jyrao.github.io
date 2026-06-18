@@ -32,6 +32,7 @@ Selected Publications
 
 Talks
 ======
+* **@NICE, Online:** Invited talk about AI4Sports research and [startup](https://www.matchmate.tv/), 2026.6 [[Record Here]](https://mp.weixin.qq.com/s/V7hxQvXLgFpRFYvK32-ZJw)
 * **@NICE, Online:** "When LLM Starts Narrating Soccer: About Applications of Multimodal Models in Sports" 2024.9.28 [[Record Here]](https://www.bilibili.com/video/BV1ZSxqesEG7/?spm_id_from=333.1387.upload.video_card.click)
 * **@EMNLP, Miami:** Oral Presentation Session of Paper "MatchTime", 2024.11.14 [[Record Here]](https://www.bilibili.com/video/BV1gmUuYkEo2/?spm_id_from=333.1387.homepage.video_card.click&vd_source=458c8b66828aa3636d0dbec7ae2c472b)
 * **@NICE, Online:** Round table meeting around "AI Movie & Long-form Video Understanding", 2024.12.16 [[Record Here]](https://www.bilibili.com/video/BV1xHkBYhEhp/?spm_id_from=333.1387.upload.video_card.click&vd_source=458c8b66828aa3636d0dbec7ae2c472b)
