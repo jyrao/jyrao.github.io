@@ -24,6 +24,8 @@ Visiting Education
 Selected Publications
 =====================
 
+* **WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting**, [Zhaokai Wang](https://www.wzk.plus/), Tianlin Gui, Jiayuan Rao, [Shangzhe Di](https://dszdsz.cn/), Yihong Tang, Dingli Liang. *In submission*, 2026. [[Webpage](https://www.matchmate.tv/predict/)] [[arXiv](https://arxiv.org/abs/2607.18084)] [[Code](https://github.com/wzk1015/WorldCupArena)]
+* **SoccerNet 2026 Challenges Results**, [SoccerNet Team](https://www.soccer-net.org/team). *In submission*, 2026. [[Webpage](https://www.soccer-net.org/challenges/2026)] [[arXiv](https://arxiv.org/abs/2607.07320)] [[Video](https://youtu.be/TjX789boQGM?si=l2YOfWyZURLcwTrY)]
 * **GenTac: Generative Modeling and Forecasting of Soccer Tactics**, Jiayuan Rao, Tianlin Gui, Haoning Wu, Yanfeng Wang, Weidi Xie. *In submission*, 2026. [[Webpage](https://jyrao.github.io/GenTac/)] [[arXiv](https://arxiv.org/abs/2604.11786)] [[Code](https://github.com/jyrao/GenTac)]
 * **SoccerMaster: A Vision Foundation Model for Soccer Understanding**, Haolin Yang, Jiayuan Rao, Haoning Wu, Weidi Xie. *CVPR*, 2026. **(Oral \| Award Candidate)** [[Webpage](https://haolinyang-hlyang.github.io/SoccerMaster/)] [[arXiv](https://arxiv.org/abs/2512.11016)]
 * **Multi-Agent System for Comprehensive Soccer Understanding**, Jiayuan Rao, Zifeng Li, Haoning Wu, Ya Zhang, Yanfeng Wang, Weidi Xie. *ACM Multimedia*, 2025. [[Webpage](https://jyrao.github.io/SoccerAgent/)] [[arXiv](https://arxiv.org/abs/2505.03735)] [[Code](https://github.com/jyrao/SoccerAgent)]
@@ -33,6 +35,7 @@ Selected Publications
 Talks
 ======
 * **@NICE, Online:** Invited talk about AI4Sports research and [startup](https://www.matchmate.tv/), 2026.6 [[Record Here]](https://mp.weixin.qq.com/s/V7hxQvXLgFpRFYvK32-ZJw)
+* **@SoccerNet / MatchMate:** WorldCupArena benchmark for football forecasting goes live on [MatchMate Predict](https://www.matchmate.tv/predict/), 2026.7
 * **@NICE, Online:** "When LLM Starts Narrating Soccer: About Applications of Multimodal Models in Sports" 2024.9.28 [[Record Here]](https://www.bilibili.com/video/BV1ZSxqesEG7/?spm_id_from=333.1387.upload.video_card.click)
 * **@EMNLP, Miami:** Oral Presentation Session of Paper "MatchTime", 2024.11.14 [[Record Here]](https://www.bilibili.com/video/BV1gmUuYkEo2/?spm_id_from=333.1387.homepage.video_card.click&vd_source=458c8b66828aa3636d0dbec7ae2c472b)
 * **@NICE, Online:** Round table meeting around "AI Movie & Long-form Video Understanding", 2024.12.16 [[Record Here]](https://www.bilibili.com/video/BV1xHkBYhEhp/?spm_id_from=333.1387.upload.video_card.click&vd_source=458c8b66828aa3636d0dbec7ae2c472b)
@@ -85,6 +88,7 @@ Teaching Assistant, University of Michigan – Shanghai Jiao Tong University Joi
 * *(SU22)* CUL2610J, French Culture, Advisor: Prof. Aline Chevalier
 * *(FA22)* STAT4060J, Computational Methods for Statistics and Data Science, Advisor: Prof. Ailin Zhang
 * *(FA23)* BUS3680J, Architecture, Sustainability and the City, Advisor: Prof. Aline Chevalier
+* *(SU26)* AI1803, Intro to Algorithm, Advisor: Prof. Jun Wu, Undergraduate Course, Shanghai Jiao Tong University School of AI
 
 Work Experience
 ===============

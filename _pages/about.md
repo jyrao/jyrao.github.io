@@ -19,6 +19,8 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 
 <div class="news-scroll" markdown="1" aria-label="Recent news">
 
+- [2026.07] [**WorldCupArena**](https://www.matchmate.tv/predict/) is released, as the AI prediction on soccer games @[**MatchMate**](https://www.matchmate.tv/), .
+- [2026.07] [**SoccerNet 2026 Challenge Results**](https://www.soccer-net.org/challenges/2026) are out, summarizing the soccer AI challenges on CVPR 2026.
 - [2026.06] Invited talk about AI4Sports research and [**startup**](https://www.matchmate.tv/) @ [**NICE**](https://nice-intl.github.io/), [**recorded here**](https://mp.weixin.qq.com/s/V7hxQvXLgFpRFYvK32-ZJw).
 - [2026.05] [**SoccerMaster**](https://haolinyang-hlyang.github.io/SoccerMaster/) is selected as a **CVPR 2026 Award Candidate**
 - [2026.05] An AI-powered sports viewing product [**MatchMate**](https://www.matchmate.tv/) for the World Cup now in closed beta! **[Join here!](/images/product/matchmate-qr.jpeg)**
@@ -56,6 +58,34 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 ## 📝 Research
 
 <div class="research-list">
+
+<div class="research-item">
+  <div class="research-figure">
+    <img src="/images/research/worldcuparena-teaser.png" alt="WorldCupArena teaser">
+  </div>
+  <div class="research-copy">
+    <p>
+    <strong>WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting</strong><br>
+    <a href="https://www.wzk.plus/" target="_blank">Zhaokai Wang</a>, <a href="https://github.com/tianlingui" target="_blank">Tianlin Gui</a>, <strong>Jiayuan Rao</strong>, <a href="https://dszdsz.cn/" target="_blank">Shangzhe Di</a>, Yihong Tang, Dingli Liang<br>
+    <em>In submission</em> <span style="color: red;"><strong>(New)</strong></span><br>
+    [<a href="https://arxiv.org/abs/2607.18084" target="_blank">Paper</a>] / [<a href="https://www.matchmate.tv/predict/" target="_blank">Webpage</a>] / [<a href="https://github.com/wzk1015/WorldCupArena" target="_blank">Code</a>]
+    </p>
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-figure">
+    <img src="/images/research/soccernet-2026-challenges.png" alt="SoccerNet 2026 Challenges Results teaser">
+  </div>
+  <div class="research-copy">
+    <p>
+    <strong>SoccerNet 2026 Challenges Results</strong><br>
+    <a href="https://www.soccer-net.org/team" target="_blank">SoccerNet Team</a><br>
+    <em>In submission</em> <span style="color: red;"><strong>(New)</strong></span><br>
+    [<a href="https://arxiv.org/abs/2607.07320" target="_blank">Paper</a>] / [<a href="https://www.soccer-net.org/challenges/2026" target="_blank">Webpage</a>] / [<a href="https://youtu.be/TjX789boQGM?si=l2YOfWyZURLcwTrY" target="_blank">Video</a>]
+    </p>
+  </div>
+</div>
 
 <div class="research-item">
   <div class="research-figure">
