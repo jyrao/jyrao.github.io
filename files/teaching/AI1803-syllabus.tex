@@ -1,0 +1,151 @@
+\documentclass[11pt,a4paper,fontset=none]{ctexart}
+
+\usepackage[a4paper,margin=2.35cm]{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{tabularx}
+\usepackage{xcolor}
+
+\setCJKmainfont[Path=/System/Library/Fonts/]{Hiragino Sans GB.ttc}
+\setCJKsansfont[Path=/System/Library/Fonts/]{STHeiti Medium.ttc}
+\setCJKmonofont[Path=/System/Library/Fonts/]{STHeiti Light.ttc}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  urlcolor=blue
+}
+
+\definecolor{emphred}{HTML}{8C1515}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.55em}
+\setlist[itemize]{leftmargin=1.7em,itemsep=0.2em,topsep=0.2em}
+
+\newcommand{\course}{AI1803 Introduction to Algorithms}
+\newcommand{\term}{2026 年第 3 学期（小学期）}
+\newcommand{\school}{上海交通大学人工智能学院}
+\newcommand{\keypoint}[1]{\textbf{\textcolor{emphred}{#1}}}
+\newcommand{\info}[2]{\keypoint{#1：}#2\par}
+\newcommand{\captiontext}[1]{\begin{center}{\small \keypoint{#1}}\end{center}}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE \bfseries \course}\\[0.35em]
+  {\large 课程纲要 / Syllabus}\\[0.5em]
+  \school \quad \term
+\end{center}
+
+\section*{一、课程信息}
+
+\info{课程名称}{AI1803 Introduction to Algorithms}
+\info{开课院系}{上海交通大学人工智能学院}
+\info{开课学期}{2026 年第 3 学期（小学期）}
+\info{授课时间}{周一、周三、周五 8:00--11:40}
+\info{线下教室}{上海交通大学闵行校区下院 114 教室（周一）；下院 115 教室（周三、周五）}
+\info{授课形式}{前两周线下授课；第 3 周起转为线上}
+\info{参考教材}{Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, \textit{Introduction to Algorithms}（CLRS）}
+\info{考试安排}{本课程无期末考试}
+
+\section*{二、教学团队}
+
+\info{Instructor}{吴军 教授}
+\info{课程助教}{饶珈源（\href{mailto:jy_rao@sjtu.edu.cn}{jy\_rao@sjtu.edu.cn}）、郑乔予（\href{mailto:three-world@sjtu.edu.cn}{three-world@sjtu.edu.cn}）}
+\info{本科生 TA}{陈佳宜、邓陈珞、方怡然、何俊豪、刘诚、王栎翔、王禹淇、徐颢文（按姓名首字母排序）}
+
+\keypoint{Office Hour 地点：}上海交通大学闵行校区老行政楼 405 室。
+
+\begingroup
+\small
+\renewcommand{\arraystretch}{1.25}
+\setlength{\tabcolsep}{5pt}
+\noindent\begin{tabularx}{\textwidth}{@{}>{\bfseries}p{1.0cm}p{2.25cm}p{1.8cm}p{1.8cm}X@{}}
+\toprule
+\keypoint{日期} & \keypoint{时间} & \keypoint{负责人} & \keypoint{身份} & \keypoint{邮箱} \\
+\midrule
+周一 & 15:00--17:00 & 郑乔予 & 课程助教 & \href{mailto:three-world@sjtu.edu.cn}{three-world@sjtu.edu.cn} \\
+周二 & 10:00--12:00 & 徐颢文 & 本科生 TA & \href{mailto:3476565683@qq.com}{3476565683@qq.com} \\
+周二 & 15:00--17:00 & 方怡然 & 本科生 TA & \href{mailto:fangyiran@sjtu.edu.cn}{fangyiran@sjtu.edu.cn} \\
+周二 & 19:00--21:00 & 刘诚 & 本科生 TA & \href{mailto:ch3sh_lc@sjtu.edu.cn}{ch3sh\_lc@sjtu.edu.cn} \\
+周三 & 14:00--16:00 & 饶珈源 & 课程助教 & \href{mailto:jy_rao@sjtu.edu.cn}{jy\_rao@sjtu.edu.cn} \\
+周三 & 19:00--21:00 & 王禹淇 & 本科生 TA & \href{mailto:jianshiliusuangu@sjtu.edu.cn}{jianshiliusuangu@sjtu.edu.cn} \\
+周四 & 10:00--12:00 & 王栎翔 & 本科生 TA & \href{mailto:cort_lee@sjtu.edu.cn}{cort\_lee@sjtu.edu.cn} \\
+\keypoint{周四} & \keypoint{15:00--17:00} & \keypoint{吴军} & \keypoint{Instructor} & \\
+周四 & 19:00--21:00 & 陈佳宜 & 本科生 TA & \href{mailto:chenjiayi0505@sjtu.edu.cn}{chenjiayi0505@sjtu.edu.cn} \\
+周五 & 15:00--17:00 & 邓陈珞 & 本科生 TA & \href{mailto:aeilot-m5@sjtu.edu.cn}{aeilot-m5@sjtu.edu.cn} \\
+周五 & 19:00--21:00 & 何俊豪 & 本科生 TA & \href{mailto:hejunhao2024@sjtu.edu.cn}{hejunhao2024@sjtu.edu.cn} \\
+\bottomrule
+\end{tabularx}
+\captiontext{表 1：Office Hour 安排。}
+\endgroup
+
+\section*{三、课程简介}
+
+本课程面向由人工智能学院开展，面向上海交通大学学生，围绕算法基础和编程实践展开。课程将从算法思维、复杂度分析和经典数据结构出发，帮助学生理解如何在真实规模的问题中选择合适的算法，并将算法落实为清晰、可靠的程序。
+
+课程内容包括递归与分治、排序、树、堆、平衡树、哈希、图搜索、最短路径和动态规划等核心主题。若授课进度允许，课程将设置机动专题，结合吴军教授在自然语言处理、搜索技术和科技产业观察方面的经验，穿插讨论神经网络、NLP 与行业发展。
+
+\section*{四、课程内容}
+
+课程将围绕以下主题展开：
+
+\begingroup
+\renewcommand{\arraystretch}{1.55}
+\setlength{\tabcolsep}{7pt}
+\noindent\begin{tabularx}{\textwidth}{@{}>{\centering\arraybackslash\bfseries}p{0.9cm}>{\bfseries}p{4.1cm}X@{}}
+\toprule
+\keypoint{序号} & \keypoint{部分} & \keypoint{主要内容} \\
+\midrule
+1 & 算法思维与复杂度 & 算法的定义与用途；Big-O、最坏情况与摊还分析；时间复杂度与空间复杂度；一维/二维峰值查找；用分治思想从线性扫描改进到对数级算法。 \\
+2 & 递归与分治 & 抢 20 游戏、斐波那契结构和汉诺塔；递归问题的拆分方式；递归式与复杂度估算；从递归思维过渡到分治算法设计。 \\
+3 & 排序与选择 & 排序问题的定义与意义；冒泡排序、插入排序、归并排序、快速排序；Partition 方法；排序下界的直观理解；中位数查找与 Top-$k$ 问题。 \\
+4 & 树、堆与平衡结构 & 二叉树与二叉搜索树；DFS/BFS 遍历；BST 的查找、插入、删除、后继与前驱；堆、优先队列与堆排序；平衡树动机与红黑树基本性质。 \\
+5 & 哈希、索引与指纹 & 从 bigram/n-gram 语言模型理解索引需求；词表查找、二分查找与哈希表；负载因子与冲突；信息指纹、密码存储思想与生日问题。 \\
+6 & 图搜索与网络爬虫 & 图的表示、邻接表与邻接矩阵；连通性、强连通与弱连通；图上的 BFS/DFS、颜色标记、层级与时间戳；生成树；网页爬虫中的搜索策略和工程规模问题。 \\
+7 & 最短路径与动态规划 & 加权图与路径权重；负权边和负环的意义；单源最短路径；Dijkstra 算法与 Relax 操作；复杂度优化；动态规划思想与 Viterbi 算法。 \\
+8 & 机动专题 & 若时间允许，将穿插讨论神经网络、NLP 与科技产业延伸。 \\
+\bottomrule
+\end{tabularx}
+\captiontext{表 2：课程内容概览。}
+\endgroup
+
+\section*{五、教学安排}
+
+\keypoint{第 1--2 周：线下授课} 课程将在上海交通大学闵行校区下院 114 教室（周一）和下院 115 教室（周三、周五）集中进行，覆盖核心算法内容，并配合少量课堂练习与课后作业。
+
+\keypoint{第 3 周起：线上安排} 课程转为线上教学与项目相关安排。具体线上节奏、项目组队方式、项目要求与评分细则将稍后公布。
+
+\section*{六、作业与项目}
+
+\keypoint{作业} 每节课会布置少量作业题，用于巩固当天课程内容。题目可能包括算法分析、手工推演、证明思路和编程实现。每节课课堂会设置一道题目，用作签到使用。
+
+\keypoint{作业评分标准} 作业中的每一道题只采用以下三个分数档次，不设置任何其他分数档次：
+
+\begin{itemize}
+  \item \keypoint{1 分：} 作答以及结果完全正确。
+  \item \keypoint{0.5 分：} 涵盖所有作答不全对，半对半错的情况，均为0.5分。
+  \item \keypoint{0 分：} 作答基本错误。
+\end{itemize}
+
+\keypoint{项目} 课程项目由助教团队统一设置，将围绕课程主题设定相关设定。项目的组队方式、具体要求、提交形式和评分细则将在后续课程开展过程中公布。
+
+\section*{七、评分方案}
+
+课程总评由以下三部分组成：
+
+\begin{itemize}
+  \item \keypoint{Presence and Participation (10\%):} 课堂参与与签到题完成情况。
+  \item \keypoint{Homework (30\%):} 每节课少量作业题，按题目评分后汇总。
+  \item \keypoint{Project (60\%):} 由助教团队统一设置；组队方式、要求和评分细则稍后公布。
+\end{itemize}
+
+\vfill
+
+\begin{center}
+{\small 本 syllabus 可根据实际授课进度和课程安排进行微调。}
+\end{center}
+
+\end{document}

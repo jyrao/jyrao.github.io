@@ -19,7 +19,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 
 <div class="news-scroll" markdown="1" aria-label="Recent news">
 
-- [2026.07] [**WorldCupArena**](https://www.matchmate.tv/predict/) is released, as the AI prediction on soccer games @[**MatchMate**](https://www.matchmate.tv/), .
+- [2026.07] [**WorldCupArena**](https://www.matchmate.tv/predict/) is released, as the AI prediction on soccer games @[**MatchMate**](https://www.matchmate.tv/).
 - [2026.07] [**SoccerNet 2026 Challenge Results**](https://www.soccer-net.org/challenges/2026) are out, summarizing the soccer AI challenges on CVPR 2026.
 - [2026.06] Invited talk about AI4Sports research and [**startup**](https://www.matchmate.tv/) @ [**NICE**](https://nice-intl.github.io/), [**recorded here**](https://mp.weixin.qq.com/s/V7hxQvXLgFpRFYvK32-ZJw).
 - [2026.05] [**SoccerMaster**](https://haolinyang-hlyang.github.io/SoccerMaster/) is selected as a **CVPR 2026 Award Candidate**
@@ -111,6 +111,20 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <a href="https://haolinyang-hlyang.github.io/" target="_blank"> Haolin Yang</a>, <strong>Jiayuan Rao</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>In CVPR 2026</em> <span style="color: red;"><strong>(Oral | Award Candidate)</strong></span><br>
     [<a href="https://arxiv.org/abs/2512.11016" target="_blank">Paper</a>] / [<a href="https://haolinyang-hlyang.github.io/SoccerMaster/" target="_blank">Webpage</a>] / [<a href="https://github.com/haolinyang-hlyang/SoccerMaster" target="_blank">Code</a>] / [<a href="https://huggingface.co" target="_blank">Dataset (soon)</a>]
+    </p>
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-figure">
+    <img src="/images/research/soccerref-agents.png" alt="SoccerRef-Agents teaser">
+  </div>
+  <div class="research-copy">
+    <p>
+    <strong>SoccerRef-Agents: Multi-Agent System for Automated Soccer Refereeing</strong><br>
+    Zi Meng, Wanli Song, Yi Hu, <strong>Jiayuan Rao</strong>, Gang Chen<br>
+    <em>In ISACE 2026</em> <span style="color: red;"><strong>(Oral)</strong></span><br>
+    [<a href="https://arxiv.org/abs/2604.23392" target="_blank">Paper</a>]
     </p>
   </div>
 </div>

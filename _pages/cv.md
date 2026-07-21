@@ -28,6 +28,7 @@ Selected Publications
 * **SoccerNet 2026 Challenges Results**, [SoccerNet Team](https://www.soccer-net.org/team). *In submission*, 2026. [[Webpage](https://www.soccer-net.org/challenges/2026)] [[arXiv](https://arxiv.org/abs/2607.07320)] [[Video](https://youtu.be/TjX789boQGM?si=l2YOfWyZURLcwTrY)]
 * **GenTac: Generative Modeling and Forecasting of Soccer Tactics**, Jiayuan Rao, Tianlin Gui, Haoning Wu, Yanfeng Wang, Weidi Xie. *In submission*, 2026. [[Webpage](https://jyrao.github.io/GenTac/)] [[arXiv](https://arxiv.org/abs/2604.11786)] [[Code](https://github.com/jyrao/GenTac)]
 * **SoccerMaster: A Vision Foundation Model for Soccer Understanding**, Haolin Yang, Jiayuan Rao, Haoning Wu, Weidi Xie. *CVPR*, 2026. **(Oral \| Award Candidate)** [[Webpage](https://haolinyang-hlyang.github.io/SoccerMaster/)] [[arXiv](https://arxiv.org/abs/2512.11016)]
+* **SoccerRef-Agents: Multi-Agent System for Automated Soccer Refereeing**, Zi Meng, Wanli Song, Yi Hu, Jiayuan Rao, Gang Chen. *ISACE*, 2026. **(Oral)** [[arXiv](https://arxiv.org/abs/2604.23392)]
 * **Multi-Agent System for Comprehensive Soccer Understanding**, Jiayuan Rao, Zifeng Li, Haoning Wu, Ya Zhang, Yanfeng Wang, Weidi Xie. *ACM Multimedia*, 2025. [[Webpage](https://jyrao.github.io/SoccerAgent/)] [[arXiv](https://arxiv.org/abs/2505.03735)] [[Code](https://github.com/jyrao/SoccerAgent)]
 * **Towards Universal Soccer Video Understanding**, Jiayuan Rao, Haoning Wu, Hao Jiang, Ya Zhang, Yanfeng Wang, Weidi Xie. *CVPR*, 2025. [[Webpage](https://jyrao.github.io/UniSoccer/)] [[arXiv](https://arxiv.org/abs/2412.01820)] [[Code](https://github.com/jyrao/UniSoccer)]
 * **MatchTime: Towards Automatic Soccer Game Commentary Generation**, Jiayuan Rao, Haoning Wu, Chang Liu, Yanfeng Wang, Weidi Xie. *EMNLP Oral*, 2024. [[Webpage](https://haoningwu3639.github.io/MatchTime/)] [[arXiv](https://arxiv.org/abs/2406.18530)] [[Code](https://github.com/jyrao/MatchTime)]
@@ -88,7 +89,10 @@ Teaching Assistant, University of Michigan – Shanghai Jiao Tong University Joi
 * *(SU22)* CUL2610J, French Culture, Advisor: Prof. Aline Chevalier
 * *(FA22)* STAT4060J, Computational Methods for Statistics and Data Science, Advisor: Prof. Ailin Zhang
 * *(FA23)* BUS3680J, Architecture, Sustainability and the City, Advisor: Prof. Aline Chevalier
-* *(SU26)* AI1803, Intro to Algorithm, Advisor: Prof. Jun Wu, Undergraduate Course, Shanghai Jiao Tong University School of AI
+
+Teaching Assistant, Shanghai Jiao Tong University School of AI
+
+* *(SU26)* AI1803, Introduction to Algorithms, Advisor: Prof. Jun Wu [[Syllabus](/files/teaching/AI1803-syllabus.pdf)]
 
 Work Experience
 ===============
