@@ -407,7 +407,7 @@
    ========================================================================== */
 
 .news-scroll {
-  max-height: 28rem;
+  max-height: 14rem;
   margin: 0 0 1.25em;
   padding-right: 0.6em;
   overflow-y: auto;
@@ -513,7 +513,7 @@
 
 @media (max-width: 640px) {
   .news-scroll {
-    max-height: 26rem;
+    max-height: 13rem;
   }
 
   .research-item {
