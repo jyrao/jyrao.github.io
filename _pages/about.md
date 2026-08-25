@@ -70,7 +70,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <p>
     <strong>Towards Comprehensive Basketball Understanding</strong><br>
     <a href="https://scholar.google.com/" target="_blank">Yirong Hu</a>, <strong>Jiayuan Rao</strong>, <a href="https://github.com/zhangyu2003" target="_blank">Yu Zhang</a>, <a href="https://dszdsz.cn/" target="_blank">Shangzhe Di</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
-    <em>arXiv preprint, 2026</em> <span style="color: red;"><strong>(New)</strong></span><br>
+    <em>In Submission</em> <span style="color: red;"><strong>(New)</strong></span><br>
     <span class="research-links"><a href="https://arxiv.org/abs/2608.23435" target="_blank">Paper</a><span aria-hidden="true">|</span><button class="abstract-toggle" type="button" aria-expanded="false">Abstract</button></span>
     </p>
     <div class="research-abstract" hidden>Understanding a basketball game requires recognizing events, localizing actions, identifying players, and relating these to structured game knowledge. Existing benchmarks primarily evaluate these abilities one at a time, leaving the interactions among these abilities under-explored. We introduce BasketballBench, a multimodal benchmark comprising 7,980 questions across ten tasks in text, image, and video. It is built from the 2025–2026 NBA season and includes official play-by-play, rosters and profiles for 530 active players, and 2,501 possession-level broadcast clips. We further propose BasketballSkills, an agent that composes eight basketball-specific perception and retrieval tools under four reusable skills that specify tool order, evidence bindings, and stopping conditions. Experiments show that current MLLMs struggle particularly on questions requiring the integration of multiple capabilities, whereas BasketballSkills outperforms them, highlighting the effectiveness of explicitly composing domain-specific capabilities for comprehensive basketball understanding.</div>
@@ -85,7 +85,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <p>
     <strong>TennisVAR: A Stroke-Evidence-Grounded Multimodal Large Language Model for Tactical Reasoning in Tennis Videos</strong><br>
     <a href="https://scholar.google.com/citations?user=QJSp3NUAAAAJ" target="_blank">Yifan Mei</a>, <a href="https://whynotgit2025.github.io/TennisVAR/#" target="_blank">Qinglin Shi</a>, <a href="https://scholar.google.com/citations?user=K13qHZoAAAAJ" target="_blank">Changli Wu</a>, <strong>Jiayuan Rao</strong>, <a href="https://scholar.google.com/citations?user=xp_rICcAAAAJ" target="_blank">Jiayi Ji</a>, <a href="https://scholar.google.com/citations?user=iYEcVaAAAAAJ" target="_blank">Liujuan Cao</a><br>
-    <em>arXiv preprint, 2026</em> <span style="color: red;"><strong>(New)</strong></span><br>
+    <em>In Submission</em> <span style="color: red;"><strong>(New)</strong></span><br>
     <span class="research-links"><a href="https://arxiv.org/abs/2608.12920" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://whynotgit2025.github.io/TennisVAR/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/WhynotGit2025/TennisVAR" target="_blank">Code</a><span aria-hidden="true">|</span><button class="abstract-toggle" type="button" aria-expanded="false">Abstract</button></span>
     </p>
     <div class="research-abstract" hidden>Sports-video understanding is moving beyond event recognition toward explaining how actions collectively shape match progression. TennisVAR bridges this perception-to-understanding gap by modeling ordered stroke events, their tactical relations, and the evidence supporting each conclusion. The model produces grounded answers, hierarchical tactic labels, supporting strokes, and decisive key actions, making rally-level reasoning explicit and verifiable.</div>
@@ -229,7 +229,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
   </div>
   <div class="research-copy">
     <p>
-    <span class="product-title">MatchMate</span> <span class="product-links">[<a href="https://www.matchmate.tv/" target="_blank">Website</a>] / [<a href="/images/product/matchmate-qr.jpeg" target="_blank">Join Here</a>]</span><br>
+    <span class="product-title">MatchMate</span> <span class="research-links"><a href="https://www.matchmate.tv/" target="_blank">Website</a><span aria-hidden="true">|</span><a href="/images/product/matchmate-qr.jpeg" target="_blank">Join Here</a></span><br>
     Your AI live football companion for <strong>real-time, personalized match watching</strong>. Ask anything during the game and get instant answers with <strong>live data</strong>, <strong>tactical context</strong>, and your preferred commentary style. MatchMate brings together second-screen Q&A, automatic stat summaries, customizable voices, and flexible viewing across phone, desktop, full-screen, and multi-match switching.
     </p>
   </div>

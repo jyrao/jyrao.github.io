@@ -15,16 +15,16 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-          <li class="masthead__menu-item masthead__language-switch">
-            {% if page.lang == 'zh' %}
-              <a href="{{ base_path }}/" lang="en" aria-label="Switch to English" title="English"><span aria-hidden="true">中</span><span class="language-switch__label"> EN</span></a>
-            {% else %}
-              <a href="{{ base_path }}/zh/" lang="zh-CN" aria-label="切换至中文" title="中文"><span aria-hidden="true">文</span><span class="language-switch__label"> 中</span></a>
-            {% endif %}
-          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <div class="masthead__language-switch">
+        {% if page.lang == 'zh' %}
+          <a href="{{ base_path }}/" lang="en" aria-label="Switch to English" title="English">EN</a>
+        {% else %}
+          <a href="{{ base_path }}/zh/" lang="zh-CN" aria-label="切换至中文" title="中文">中</a>
+        {% endif %}
+      </div>
     </div>
   </div>
 </div>

@@ -514,14 +514,22 @@
   letter-spacing: 0.02em;
 }
 
+.masthead__menu {
+  position: relative;
+  padding-right: 4em;
+}
+
+.masthead__language-switch {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+
 .masthead__language-switch a:hover {
   border-color: $link-color;
 }
 
-.language-switch__label {
-  margin-left: 0.12em;
-  font-size: 0.76em;
-}
 
 .product-title {
   color: #111;
