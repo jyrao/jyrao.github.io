@@ -501,36 +501,6 @@
   line-height: 1.55;
 }
 
-.masthead__language-switch a {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 2.25em;
-  height: 2.25em;
-  border: 1px solid $border-color;
-  border-radius: 50%;
-  font-size: 0.82em;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-}
-
-.masthead__menu {
-  position: relative;
-  padding-right: 4em;
-}
-
-.masthead__language-switch {
-  position: absolute;
-  top: 50%;
-  right: 0;
-  transform: translateY(-50%);
-}
-
-.masthead__language-switch a:hover {
-  border-color: $link-color;
-}
-
-
 .product-title {
   color: #111;
   font-size: 1.12em;

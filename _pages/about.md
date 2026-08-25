@@ -19,8 +19,8 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 
 <div class="news-scroll" markdown="1" aria-label="Recent news">
 
-- [2026.08] New preprint: [**Towards Comprehensive Basketball Understanding**](https://arxiv.org/abs/2608.23435), introducing BasketballBench and BasketballSkills for comprehensive basketball understanding.
-- [2026.08] New preprint: [**TennisVAR**](https://arxiv.org/abs/2608.12920), a stroke-evidence-grounded MLLM for tactical reasoning in tennis videos. [**Project page**](https://whynotgit2025.github.io/TennisVAR/)
+- [2026.08] 1 new preprint [**Towards Comprehensive Basketball Understanding**](https://arxiv.org/abs/2608.23435) is out.
+- [2026.08] 1 new preprint [**TennisVAR**](https://arxiv.org/abs/2608.12920)**🎾**, opening the tennis series of work.
 - [2026.08] 1 paper [**BasketEvent**](https://zhangyu2003.github.io/BasketEvent/) is accepted by **BMVC 2026**, opening a new AI basketball 🏀 research line.
 - [2026.07] [**WorldCupArena**](https://www.matchmate.tv/predict/) is released, as the AI prediction on soccer games @[**MatchMate**](https://www.matchmate.tv/).
 - [2026.07] [**SoccerNet 2026 Challenge Results**](https://www.soccer-net.org/challenges/2026) are out, summarizing the soccer AI challenges on CVPR 2026.
