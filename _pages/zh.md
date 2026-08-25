@@ -30,9 +30,26 @@ lang: zh
 - [2025.11] 在上海举办 [**NICE Agent 2025 Event**](https://mp.weixin.qq.com/s/DjGrnVjDqw_bRhRGndQ8AA)。
 - [2025.11] 获上海市大学生网球锦标赛铜牌 🥉🎾。
 - [2025.10] 在 [**CVPR2026**](https://cvpr.thecvf.com/) 发起 [**SN-VQA**](https://www.soccer-net.org/challenges/2026) 挑战赛，欢迎参赛赢取 $1,000 奖金！
+- [2025.10] 将在爱尔兰都柏林参加 [**ACM Multimedia 2025**](https://acmmm2025.org/)，并担任 session chair。
+- [2025.09] 将在上海 [**ISACE**](https://formal-analysis.com/isace/2025/) 进行博士生论坛分享和研究演示。
+- [2025.08] 一篇摘要被 [**CCSS**](https://2025ccss.scimeeting.cn/) 接收，11 月武汉见。
+- [2025.08] 获中国大学生网球比赛（总决赛）男子团体全国第五名 🎾。
+- [2025.07] 受邀在 [**SoccerNet**](https://www.soccer-net.org/)（KAUST）进行分享，为足球干杯！🍻
 - [2025.07] 论文 [**SoccerAgent**](https://jyrao.github.io/SoccerAgent/) 被 [**ACM Multimedia 2025**](https://acmmm2025.org/) 接收。
+- [2025.06] 受邀在 [**EA** 🎮](https://www.ea.com/) 分享：*"EA Sports, it's in the game!"*
+- [2025.06] 将在 Nashville 参加 **CVPR**、在珠海参加 **VALSE**，并进行海报展示。
+- [2025.05] 获上海大学生足球联赛杯银牌 🥈⚽️。
+- [2025.04] 通过博士资格考试。
 - [2025.02] 论文 [**UniSoccer**](https://jyrao.github.io/UniSoccer/) 被 CVPR 2025 接收。
+- [2024.12] 举办 [**"AI Movie & Long-form Video Understanding"**](https://mp.weixin.qq.com/s/F-FpfEOHwdzdNeKakhreYg)。
+- [2024.12] 获评上海交通大学第 50 届、50 位体育达人。
+- [2024.12] 将在浙江大学参加 [**CSIG**](http://youth.csig.org.cn/CSIG2024/index.html#/) 并进行海报展示。
+- [2024.11] 将在迈阿密参加 **EMNLP** 并进行 oral presentation。
 - [2024.09] 论文 [**MatchTime**](https://haoningwu3639.github.io/MatchTime/) 被 [**EMNLP 2024**](https://2024.emnlp.org/) 接收为 oral presentation。
+- [2024.09] 受邀在 [**NICE**](https://nice-nlp.github.io/) 分享 AI4Sports 与 VLM，之后将担任其委员会成员。
+- [2023.12] 获上海市大学生网球锦标赛铜牌 🥉🎾。
+- [2023.09] 在上海交通大学和上海人工智能实验室开始博士生涯。
+- [2023.08] 从密西根学院毕业，获评上海市优秀毕业生 🎓。
 
 </div>
 
