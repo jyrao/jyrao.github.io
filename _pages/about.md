@@ -101,7 +101,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <strong>BasketEvent: Understanding Who Did What and When in Basketball Videos</strong><br>
     <a href="https://github.com/zhangyu2003" target="_blank">Yu Zhang</a>, <strong>Jiayuan Rao</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>In BMVC 2026</em> <span style="color: red;"><strong>(New)</strong></span><br>
-    <span class="research-links"><a href="https://arxiv.org/abs/2607.21267" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://zhangyu2003.github.io/BasketEvent/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://huggingface.co/datasets/zaywas/BasketEvent" target="_blank">Dataset</a><span aria-hidden="true">|</span><a href="https://www.xiaohongshu.com/discovery/item/6a7b2a3400000000080127d5?source=webshare&xhsshare=pc_web&xsec_token=ABh07XV6wOe_5R8TBg21qJC9QUwXwvUpyS0wPuy4ABCKs=&xsec_source=pc_share" target="_blank">Demo Video</a></span>
+    <span class="research-links"><a href="https://arxiv.org/abs/2607.21267" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://zhangyu2003.github.io/BasketEvent/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://huggingface.co/datasets/zaywas/BasketEvent" target="_blank">Dataset</a><span aria-hidden="true">|</span><a href="https://www.xiaohongshu.com/discovery/item/6a7b2a3400000000080127d5?source=webshare&xhsshare=pc_web&xsec_token=ABh07XV6wOe_5R8TBg21qJC9QUwXwvUpyS0wPuy4ABCKs=&xsec_source=pc_share" target="_blank">Demo Video</a><span aria-hidden="true">|</span><button class="abstract-toggle" data-abstract-url="/publication/2026-07-21-basketevent" type="button">Abstract</button></span>
     </p>
   </div>
 </div>
@@ -115,7 +115,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <strong>WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting</strong><br>
     <a href="https://www.wzk.plus/" target="_blank">Zhaokai Wang</a>, <a href="https://github.com/tianlingui" target="_blank">Tianlin Gui</a>, <strong>Jiayuan Rao</strong>, <a href="https://dszdsz.cn/" target="_blank">Shangzhe Di</a>, Yihong Tang, Dingli Liang<br>
     <em>In submission</em> <span style="color: red;"><strong>(New)</strong></span><br>
-    <span class="research-links"><a href="https://arxiv.org/abs/2607.18084" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://www.matchmate.tv/predict/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/wzk1015/WorldCupArena" target="_blank">Code</a></span>
+    <span class="research-links"><a href="https://arxiv.org/abs/2607.18084" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://www.matchmate.tv/predict/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/wzk1015/WorldCupArena" target="_blank">Code</a><span aria-hidden="true">|</span><button class="abstract-toggle" data-abstract-url="/publication/2026-07-20-worldcuparena" type="button">Abstract</button></span>
     </p>
   </div>
 </div>
@@ -129,7 +129,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <strong>SoccerNet 2026 Challenges Results</strong><br>
     <a href="https://www.soccer-net.org/team" target="_blank">SoccerNet Team</a><br>
     <em>In submission</em> <span style="color: red;"><strong>(New)</strong></span><br>
-    <span class="research-links"><a href="https://arxiv.org/abs/2607.07320" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://www.soccer-net.org/challenges/2026" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://youtu.be/TjX789boQGM?si=l2YOfWyZURLcwTrY" target="_blank">Demo Video</a></span>
+    <span class="research-links"><a href="https://arxiv.org/abs/2607.07320" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://www.soccer-net.org/challenges/2026" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://youtu.be/TjX789boQGM?si=l2YOfWyZURLcwTrY" target="_blank">Demo Video</a><span aria-hidden="true">|</span><button class="abstract-toggle" data-abstract-url="/publication/2026-07-08-soccernet-2026-challenges-results" type="button">Abstract</button></span>
     </p>
   </div>
 </div>
@@ -143,7 +143,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <strong>GenTac: Generative Modeling and Forecasting of Soccer Tactics</strong><br>
     <strong>Jiayuan Rao</strong>, <a href="https://github.com/tianlingui" target="_blank">Tianlin Gui</a>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>In submission</em> <span style="color: red;"><strong>(New)</strong></span><br>
-    <span class="research-links"><a href="https://arxiv.org/abs/2604.11786" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://arxiv.org/pdf/2604.11786" target="_blank">PDF</a><span aria-hidden="true">|</span><a href="https://jyrao.github.io/GenTac/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/jyrao/GenTac" target="_blank">Code</a></span>
+    <span class="research-links"><a href="https://arxiv.org/abs/2604.11786" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://arxiv.org/pdf/2604.11786" target="_blank">PDF</a><span aria-hidden="true">|</span><a href="https://jyrao.github.io/GenTac/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/jyrao/GenTac" target="_blank">Code</a><span aria-hidden="true">|</span><button class="abstract-toggle" data-abstract-url="/publication/2026-04-15-gentac" type="button">Abstract</button></span>
     </p>
   </div>
 </div>
@@ -157,7 +157,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <strong>SoccerMaster: A Vision Foundation Model for Soccer Understanding</strong><br>
     <a href="https://haolinyang-hlyang.github.io/" target="_blank"> Haolin Yang</a>, <strong>Jiayuan Rao</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>In CVPR 2026</em> <span style="color: red;"><strong>(Oral | Best Paper Candidate)</strong></span><br>
-    <span class="research-links"><a href="https://arxiv.org/abs/2512.11016" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://haolinyang-hlyang.github.io/SoccerMaster/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/haolinyang-hlyang/SoccerMaster" target="_blank">Code</a><span aria-hidden="true">|</span><a href="https://huggingface.co" target="_blank">Dataset (soon)</a></span>
+    <span class="research-links"><a href="https://arxiv.org/abs/2512.11016" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://haolinyang-hlyang.github.io/SoccerMaster/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/haolinyang-hlyang/SoccerMaster" target="_blank">Code</a><span aria-hidden="true">|</span><a href="https://huggingface.co" target="_blank">Dataset (soon)</a><span aria-hidden="true">|</span><button class="abstract-toggle" data-abstract-url="/publication/2025-12-14-soccermaster" type="button">Abstract</button></span>
     </p>
   </div>
 </div>
@@ -171,7 +171,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <strong>SoccerRef-Agents: Multi-Agent System for Automated Soccer Refereeing</strong><br>
     Zi Meng, Wanli Song, Yi Hu, <strong>Jiayuan Rao</strong>, Gang Chen<br>
     <em>In ISACE 2026</em> <span style="color: red;"><strong>(Oral)</strong></span><br>
-    <span class="research-links"><a href="https://arxiv.org/abs/2604.23392" target="_blank">Paper</a></span>
+    <span class="research-links"><a href="https://arxiv.org/abs/2604.23392" target="_blank">Paper</a><span aria-hidden="true">|</span><button class="abstract-toggle" data-abstract-url="/publication/2026-04-21-soccerref-agents" type="button">Abstract</button></span>
     </p>
   </div>
 </div>
@@ -185,7 +185,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <strong>Multi-Agent System for Comprehensive Soccer Understanding</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://openreview.net/profile?id=~Zifeng_Li3" target="_blank">Zifeng Li*</a>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://mediabrain.sjtu.edu.cn/yazhang/" target="_blank">Ya Zhang</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>In ACM Multimedia 2025</em> <br>
-    <span class="research-links"><a href="https://arxiv.org/abs/2505.03735" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://jyrao.github.io/SoccerAgent/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/jyrao/SoccerAgent" target="_blank">Code</a><span aria-hidden="true">|</span><a href="https://huggingface.co/datasets/Homie0609/SoccerBench" target="_blank">Dataset</a></span>
+    <span class="research-links"><a href="https://arxiv.org/abs/2505.03735" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://jyrao.github.io/SoccerAgent/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/jyrao/SoccerAgent" target="_blank">Code</a><span aria-hidden="true">|</span><a href="https://huggingface.co/datasets/Homie0609/SoccerBench" target="_blank">Dataset</a><span aria-hidden="true">|</span><button class="abstract-toggle" data-abstract-url="/publication/2025-05-06-soccceragent" type="button">Abstract</button></span>
     </p>
   </div>
 </div>
@@ -199,7 +199,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <strong>Towards Universal Soccer Video Understanding</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://scholar.google.nl/citations?user=0TvdOEcAAAAJ&hl=en" target="_blank">Hao Jiang</a>, <a href="https://mediabrain.sjtu.edu.cn/yazhang/" target="_blank">Ya Zhang</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>In CVPR 2025</em> <br>
-    <span class="research-links"><a href="https://arxiv.org/abs/2412.01820" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://jyrao.github.io/UniSoccer/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/jyrao/UniSoccer" target="_blank">Code</a><span aria-hidden="true">|</span><a href="https://huggingface.co/datasets/Homie0609/SoccerReplay-1988" target="_blank">Dataset</a><span aria-hidden="true">|</span><a href="https://mp.weixin.qq.com/s/mEerB8hZjkb5ZU-ercBMLA" target="_blank">WeChat</a></span>
+    <span class="research-links"><a href="https://arxiv.org/abs/2412.01820" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://jyrao.github.io/UniSoccer/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/jyrao/UniSoccer" target="_blank">Code</a><span aria-hidden="true">|</span><a href="https://huggingface.co/datasets/Homie0609/SoccerReplay-1988" target="_blank">Dataset</a><span aria-hidden="true">|</span><a href="https://mp.weixin.qq.com/s/mEerB8hZjkb5ZU-ercBMLA" target="_blank">WeChat</a><span aria-hidden="true">|</span><button class="abstract-toggle" data-abstract-url="/publication/2024-11-20-unisoccer" type="button">Abstract</button></span>
     </p>
   </div>
 </div>
@@ -213,7 +213,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <strong>MatchTime: Towards Automatic Soccer Game Commentary Generation</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://verg-avesta.github.io/" target="_blank">Chang Liu</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>In EMNLP 2024</em> <span style="color: red;"><strong>(Oral)</strong></span><br>
-    <span class="research-links"><a href="https://arxiv.org/abs/2406.18530" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/jyrao/MatchTime" target="_blank">Code</a><span aria-hidden="true">|</span><a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo Video</a><span aria-hidden="true">|</span><a href="https://mp.weixin.qq.com/s/BWe6-dox21oeqJcdy2DcpA?token=1469677986&lang=zh_CN" target="_blank">WeChat</a></span>
+    <span class="research-links"><a href="https://arxiv.org/abs/2406.18530" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://haoningwu3639.github.io/MatchTime/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/jyrao/MatchTime" target="_blank">Code</a><span aria-hidden="true">|</span><a href="https://www.bilibili.com/video/BV1L4421U76m" target="_blank">Demo Video</a><span aria-hidden="true">|</span><a href="https://mp.weixin.qq.com/s/BWe6-dox21oeqJcdy2DcpA?token=1469677986&lang=zh_CN" target="_blank">WeChat</a><span aria-hidden="true">|</span><button class="abstract-toggle" data-abstract-url="/publication/2024-06-16-matchtime" type="button">Abstract</button></span>
     </p>
   </div>
 </div>
