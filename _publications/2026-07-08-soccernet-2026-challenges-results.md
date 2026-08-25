@@ -1,6 +1,6 @@
 ---
 title: "SoccerNet 2026 Challenges Results"
-collection: preprints
+collection: publications
 permalink: /publication/2026-07-08-soccernet-2026-challenges-results
 date: 2026-07-08
 paperurl: 'https://arxiv.org/abs/2607.07320'

@@ -1,6 +1,6 @@
 ---
 title: "SoccerMaster: A Vision Foundation Model for Soccer Understanding"
-collection: preprints
+collection: publications
 permalink: /publication/2025-12-14-soccermaster
 date: 2025-12-14
 paperurl: 'https://haolinyang-hlyang.github.io/SoccerMaster/'

@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
       if (!abstract && button.dataset.abstractUrl) {
         button.disabled = true;
         button.textContent = "Loading abstract…";
-        fetch(button.dataset.abstractUrl)
+        fetch(button.dataset.abstractUrl + ".html")
           .then(function (response) { return response.text(); })
           .then(function (html) {
             var page = new DOMParser().parseFromString(html, "text/html");

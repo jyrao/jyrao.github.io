@@ -1,6 +1,6 @@
 ---
 title: "Multi-Agent System for Comprehensive Soccer Understanding"
-collection: preprints
+collection: publications
 permalink: /publication/2025-05-06-soccceragent
 date: 2025-05-06
 paperurl: 'https://jyrao.github.io/SoccerAgent/'

@@ -1,6 +1,6 @@
 ---
 title: "WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting"
-collection: preprints
+collection: publications
 permalink: /publication/2026-07-20-worldcuparena
 date: 2026-07-20
 paperurl: 'https://arxiv.org/abs/2607.18084'

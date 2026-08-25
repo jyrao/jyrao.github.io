@@ -1,6 +1,6 @@
 ---
 title: "BasketEvent: Understanding Who Did What and When in Basketball Videos"
-collection: preprints
+collection: publications
 permalink: /publication/2026-07-21-basketevent
 date: 2026-08-01
 paperurl: 'https://arxiv.org/abs/2607.21267'

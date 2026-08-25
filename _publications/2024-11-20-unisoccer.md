@@ -1,6 +1,6 @@
 ---
 title: "Towards Universal Soccer Video Understanding"
-collection: preprints
+collection: publications
 permalink: /publication/2024-11-20-unisoccer
 date: 2024-11-20
 paperurl: 'https://jyrao.github.io/UniSoccer/'

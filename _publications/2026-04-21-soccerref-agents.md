@@ -1,6 +1,6 @@
 ---
 title: "SoccerRef-Agents: Multi-Agent System for Automated Soccer Refereeing"
-collection: preprints
+collection: publications
 permalink: /publication/2026-04-21-soccerref-agents
 date: 2025-12-13
 paperurl: 'https://arxiv.org/abs/2604.23392'
