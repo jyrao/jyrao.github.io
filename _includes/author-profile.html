@@ -32,7 +32,7 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="{% if author.email contains 'mailto:' %}{{ author.email }}{% else %}mailto:{{ author.email }}{% endif %}"><svg class="author__inline-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 5.5h17v13h-17v-13Zm2.1 2 6.4 5.1 6.4-5.1H5.6Zm12.9 9V9.7l-6.5 5.2-6.5-5.2v6.8h13Z"/></svg> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li><a href="{% if author.email contains 'mailto:' %}{{ author.email }}{% else %}mailto:{{ author.email }}{% endif %}"><svg class="author__inline-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 5.5h17v13h-17v-13Zm2.1 2 6.4 5.1 6.4-5.1H5.6Zm12.9 9V9.7l-6.5 5.2-6.5-5.2v6.8h13Z"/></svg> {% if page.lang == 'zh' %}邮箱{% else %}Email{% endif %}</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -104,7 +104,7 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><svg class="author__inline-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 2.8 8l9.2 5 7.2-3.9v5h2V8L12 3Zm-5.5 9.1v3.1c0 2 2.5 3.8 5.5 3.8s5.5-1.8 5.5-3.8v-3.1L12 15.1l-5.5-3Z"/></svg> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><svg class="author__inline-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 2.8 8l9.2 5 7.2-3.9v5h2V8L12 3Zm-5.5 9.1v3.1c0 2 2.5 3.8 5.5 3.8s5.5-1.8 5.5-3.8v-3.1L12 15.1l-5.5-3Z"/></svg> {% if page.lang == 'zh' %}谷歌学术{% else %}Google Scholar{% endif %}</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
@@ -116,10 +116,10 @@
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
       {% if author.bilibili %}
-        <li><a href="{{ author.bilibili }}"><img class="author__social-logo" src="{{ '/images/social/bilibili.svg' | prepend: base_path }}" alt="" aria-hidden="true"> Bilibili</a></li>
+        <li><a href="{{ author.bilibili }}"><img class="author__social-logo" src="{{ '/images/social/bilibili.svg' | prepend: base_path }}" alt="" aria-hidden="true"> 哔哩哔哩</a></li>
       {% endif %}
       {% if author.RedNote %}
-        <li><a href="{{ author.RedNote }}"><img class="author__social-logo" src="{{ '/images/social/xhs.png' | prepend: base_path }}" alt="" aria-hidden="true"> RedNote</a></li>
+        <li><a href="{{ author.RedNote }}"><img class="author__social-logo" src="{{ '/images/social/xhs.png' | prepend: base_path }}" alt="" aria-hidden="true"> 小红书</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>

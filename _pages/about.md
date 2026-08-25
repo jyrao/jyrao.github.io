@@ -19,11 +19,13 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 
 <div class="news-scroll" markdown="1" aria-label="Recent news">
 
+- [2026.08] New preprint: [**Towards Comprehensive Basketball Understanding**](https://arxiv.org/abs/2608.23435), introducing BasketballBench and BasketballSkills for comprehensive basketball understanding.
+- [2026.08] New preprint: [**TennisVAR**](https://arxiv.org/abs/2608.12920), a stroke-evidence-grounded MLLM for tactical reasoning in tennis videos. [**Project page**](https://whynotgit2025.github.io/TennisVAR/)
 - [2026.08] 1 paper [**BasketEvent**](https://zhangyu2003.github.io/BasketEvent/) is accepted by **BMVC 2026**, opening a new AI basketball 🏀 research line.
 - [2026.07] [**WorldCupArena**](https://www.matchmate.tv/predict/) is released, as the AI prediction on soccer games @[**MatchMate**](https://www.matchmate.tv/).
 - [2026.07] [**SoccerNet 2026 Challenge Results**](https://www.soccer-net.org/challenges/2026) are out, summarizing the soccer AI challenges on CVPR 2026.
 - [2026.06] Invited talk about AI4Sports research and [**startup**](https://www.matchmate.tv/) @ [**NICE**](https://nice-intl.github.io/), [**recorded here**](https://mp.weixin.qq.com/s/V7hxQvXLgFpRFYvK32-ZJw).
-- [2026.05] [**SoccerMaster**](https://haolinyang-hlyang.github.io/SoccerMaster/) is selected as a **CVPR 2026 Award Candidate**
+- [2026.05] [**SoccerMaster**](https://haolinyang-hlyang.github.io/SoccerMaster/) is selected as a **CVPR 2026 Best Paper Candidate**
 - [2026.05] An AI-powered sports viewing product [**MatchMate**](https://www.matchmate.tv/) for the World Cup now in closed beta! **[Join here!](/images/product/matchmate-qr.jpeg)**
 - [2026.04] New preprint [**GenTac**](https://jyrao.github.io/GenTac/) is released: generative modeling and forecasting of soccer tactics.
 - [2026.02] Started as visiting researcher @ [**KAUST**](https://www.kaust.edu.sa/en/) and [**FIFA Research Institute**](https://www.kaust.edu.sa/en/news/kaust-becomes-first-fifa-research-institute-in-the-middle-east-and-asia).
@@ -59,6 +61,36 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 ## 📝 Research
 
 <div class="research-list">
+
+<div class="research-item">
+  <div class="research-figure">
+    <img src="/images/research/basketballbench.png" alt="BasketballBench task overview">
+  </div>
+  <div class="research-copy">
+    <p>
+    <strong>Towards Comprehensive Basketball Understanding</strong><br>
+    <a href="https://scholar.google.com/" target="_blank">Yirong Hu</a>, <strong>Jiayuan Rao</strong>, <a href="https://github.com/zhangyu2003" target="_blank">Yu Zhang</a>, <a href="https://dszdsz.cn/" target="_blank">Shangzhe Di</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
+    <em>arXiv preprint, 2026</em> <span style="color: red;"><strong>(New)</strong></span><br>
+    <span class="research-links"><a href="https://arxiv.org/abs/2608.23435" target="_blank">Paper</a><span aria-hidden="true">|</span><button class="abstract-toggle" type="button" aria-expanded="false">Abstract</button></span>
+    </p>
+    <div class="research-abstract" hidden>Understanding a basketball game requires recognizing events, localizing actions, identifying players, and relating these to structured game knowledge. Existing benchmarks primarily evaluate these abilities one at a time, leaving the interactions among these abilities under-explored. We introduce BasketballBench, a multimodal benchmark comprising 7,980 questions across ten tasks in text, image, and video. It is built from the 2025–2026 NBA season and includes official play-by-play, rosters and profiles for 530 active players, and 2,501 possession-level broadcast clips. We further propose BasketballSkills, an agent that composes eight basketball-specific perception and retrieval tools under four reusable skills that specify tool order, evidence bindings, and stopping conditions. Experiments show that current MLLMs struggle particularly on questions requiring the integration of multiple capabilities, whereas BasketballSkills outperforms them, highlighting the effectiveness of explicitly composing domain-specific capabilities for comprehensive basketball understanding.</div>
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-figure">
+    <img src="/images/research/tennisvar.png" alt="TennisVAR stroke-evidence illustration">
+  </div>
+  <div class="research-copy">
+    <p>
+    <strong>TennisVAR: A Stroke-Evidence-Grounded Multimodal Large Language Model for Tactical Reasoning in Tennis Videos</strong><br>
+    <a href="https://scholar.google.com/citations?user=QJSp3NUAAAAJ" target="_blank">Yifan Mei</a>, <a href="https://whynotgit2025.github.io/TennisVAR/#" target="_blank">Qinglin Shi</a>, <a href="https://scholar.google.com/citations?user=K13qHZoAAAAJ" target="_blank">Changli Wu</a>, <strong>Jiayuan Rao</strong>, <a href="https://scholar.google.com/citations?user=xp_rICcAAAAJ" target="_blank">Jiayi Ji</a>, <a href="https://scholar.google.com/citations?user=iYEcVaAAAAAJ" target="_blank">Liujuan Cao</a><br>
+    <em>arXiv preprint, 2026</em> <span style="color: red;"><strong>(New)</strong></span><br>
+    <span class="research-links"><a href="https://arxiv.org/abs/2608.12920" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://whynotgit2025.github.io/TennisVAR/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/WhynotGit2025/TennisVAR" target="_blank">Code</a><span aria-hidden="true">|</span><button class="abstract-toggle" type="button" aria-expanded="false">Abstract</button></span>
+    </p>
+    <div class="research-abstract" hidden>Sports-video understanding is moving beyond event recognition toward explaining how actions collectively shape match progression. TennisVAR bridges this perception-to-understanding gap by modeling ordered stroke events, their tactical relations, and the evidence supporting each conclusion. The model produces grounded answers, hierarchical tactic labels, supporting strokes, and decisive key actions, making rally-level reasoning explicit and verifiable.</div>
+  </div>
+</div>
 
 <div class="research-item">
   <div class="research-figure">
@@ -124,8 +156,8 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <p>
     <strong>SoccerMaster: A Vision Foundation Model for Soccer Understanding</strong><br>
     <a href="https://haolinyang-hlyang.github.io/" target="_blank"> Haolin Yang</a>, <strong>Jiayuan Rao</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
-    <em>In CVPR 2026</em> <span style="color: red;"><strong>(Oral | Award Candidate)</strong></span><br>
-    [<a href="https://arxiv.org/abs/2512.11016" target="_blank">Paper</a>] / [<a href="https://haolinyang-hlyang.github.io/SoccerMaster/" target="_blank">Webpage</a>] / [<a href="https://github.com/haolinyang-hlyang/SoccerMaster" target="_blank">Code</a>] / [<a href="https://huggingface.co" target="_blank">Dataset (soon)</a>]
+    <em>In CVPR 2026</em> <span style="color: red;"><strong>(Oral | Best Paper Candidate)</strong></span><br>
+    <span class="research-links"><a href="https://arxiv.org/abs/2512.11016" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://haolinyang-hlyang.github.io/SoccerMaster/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/haolinyang-hlyang/SoccerMaster" target="_blank">Code</a><span aria-hidden="true">|</span><a href="https://huggingface.co" target="_blank">Dataset (soon)</a></span>
     </p>
   </div>
 </div>
@@ -167,7 +199,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
     <strong>Towards Universal Soccer Video Understanding</strong><br>
     <strong>Jiayuan Rao*</strong>, <a href="https://haoningwu3639.github.io/" target="_blank">Haoning Wu*</a>, <a href="https://scholar.google.nl/citations?user=0TvdOEcAAAAJ&hl=en" target="_blank">Hao Jiang</a>, <a href="https://mediabrain.sjtu.edu.cn/yazhang/" target="_blank">Ya Zhang</a>, <a href="https://cmic.sjtu.edu.cn/wangyanfeng/" target="_blank">Yanfeng Wang</a>, <a href="https://weidixie.github.io/" target="_blank">Weidi Xie</a><br>
     <em>In CVPR 2025</em> <br>
-    [<a href="https://arxiv.org/abs/2412.01820" target="_blank">Paper</a>] / [<a href="https://jyrao.github.io/UniSoccer/" target="_blank">Webpage</a>] / [<a href="https://github.com/jyrao/UniSoccer" target="_blank">Code</a>] / [<a href="https://huggingface.co/datasets/Homie0609/SoccerReplay-1988" target="_blank">Dataset</a>] / [<a href="https://mp.weixin.qq.com/s/mEerB8hZjkb5ZU-ercBMLA" target="_blank">WeChat</a>]
+    <span class="research-links"><a href="https://arxiv.org/abs/2412.01820" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://jyrao.github.io/UniSoccer/" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://github.com/jyrao/UniSoccer" target="_blank">Code</a><span aria-hidden="true">|</span><a href="https://huggingface.co/datasets/Homie0609/SoccerReplay-1988" target="_blank">Dataset</a><span aria-hidden="true">|</span><a href="https://mp.weixin.qq.com/s/mEerB8hZjkb5ZU-ercBMLA" target="_blank">WeChat</a></span>
     </p>
   </div>
 </div>
