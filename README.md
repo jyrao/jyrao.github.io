@@ -29,3 +29,19 @@ See more info at https://academicpages.github.io/
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
 To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+
+## Homepage maintenance
+
+The seven navigation entries in `_data/navigation.yml` point to sections in
+`_pages/about.md`. CV and Teaching legacy URLs redirect to those sections.
+
+Run `python3 scripts/update_cv.py` to refresh the public CV downloads. It selects
+only PDFs ending in `YYMMDD_web.pdf`, using the newest filename date separately
+from `/Users/jiayuanrao/StartUp/个人简历/简历终稿/英文` and `中文`.
+The original PDFs are copied unchanged to stable URLs under `files/cv/`, preserving
+all clickable links. `files/cv/versions.json` records the selected filenames.
+
+The five archived syllabi have Markdown and PDF copies under `files/teaching/`.
+To regenerate them from `_teaching/*.md`, run `python3 scripts/build_syllabi.py`
+with ReportLab installed (the script uses macOS Arial fonts). AI1803 retains its
+existing original PDF and TeX source.

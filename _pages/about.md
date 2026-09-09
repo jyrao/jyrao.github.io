@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## 🔎  About Me
+{: #about-me}
 
 I'm a 3rd-year PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/), researching on Multi-modal Learning and AI for Science (AI4Sports) supervised by [Prof. Weidi Xie](https://weidixie.github.io/) and [Prof. Yanfeng Wang](https://cmic.sjtu.edu.cn/wangyanfeng/). I finished my undergraduate at [UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/about/) majoring in Electrical & Computer Engineering with Data Science minor degree. Currently, I'm visiting at [KAUST](https://www.kaust.edu.sa/en/) and [FIFA Research Institute](https://www.kaust.edu.sa/en/news/kaust-becomes-first-fifa-research-institute-in-the-middle-east-and-asia) with [Prof. Bernard Ghanem](https://www.bernardghanem.com/) and [SoccerNet team](https://www.soccer-net.org/). I'm also building an AI sports startup, hoping to let more people feel the passion and joy of sports through AI.
 
@@ -16,6 +17,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 
 
 ## 🔥 News
+{: #news}
 
 <div class="news-scroll" markdown="1" aria-label="Recent news">
 
@@ -59,6 +61,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 </div>
 
 ## 📝 Research
+{: #research}
 
 <div class="research-list">
 
@@ -221,6 +224,7 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
 </div>
 
 ## 🚀 Product
+{: #product}
 
 <div class="research-list">
 <div class="research-item">
@@ -235,6 +239,88 @@ I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me
   </div>
 </div>
 </div>
+
+## 📄 CV
+{: #cv}
+
+<div class="cv-downloads">
+<a href="{{ '/files/cv/Jiayuan-Rao-CV-English_web.pdf' | relative_url }}">English CV <span>PDF ↗</span></a>
+<a href="{{ '/files/cv/Jiayuan-Rao-CV-Chinese_web.pdf' | relative_url }}" lang="zh">中文简历 <span>PDF ↗</span></a>
+</div>
+
+## 📚 Teaching Experience
+{: #teaching}
+
+Teaching Assistant, Shanghai Jiao Tong University
+
+- *(FA21)* **MATH2560J**, Honors Linear Algebra & Differential Equation, Advisor: [Prof. Olga Danilkina](https://www.nottingham.edu.cn/cn/Science-Engineering/People/Profile.aspx?id=91310129-ded0-4f33-87d5-1bc126fdb1b7&language=zh) · [Syllabus](/files/teaching/MATH2560J-syllabus.pdf)
+- *(FA21)* **MATH2160J**, Calculus Ⅳ, Advisor: [Prof. Olga Danilkina](https://www.nottingham.edu.cn/cn/Science-Engineering/People/Profile.aspx?id=91310129-ded0-4f33-87d5-1bc126fdb1b7&language=zh) · [Syllabus](/files/teaching/MATH2160J-syllabus.pdf)
+- *(SU22)* **CUL2610J**, French Culture, Advisor: [Prof. Aline Chevalier](https://speit.sjtu.edu.cn/faculty/123) · [Syllabus](/files/teaching/CUL2610J-syllabus.pdf)
+- *(FA22)* **STAT4060J**, Computational Methods for Statistics and Data Science, Advisor: [Prof. Ailin Zhang](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/33871/) · [Syllabus](/files/teaching/STAT4060J-syllabus.pdf)
+- *(FA23)* **BUS3680J**, Architecture, Sustainability and the City, Advisor: [Prof. Aline Chevalier](https://speit.sjtu.edu.cn/faculty/123) · [Syllabus](/files/teaching/BUS3680J-syllabus.pdf)
+- *(SU26)* **AI1803**, Introduction to Algorithms, Advisor: [Prof. Jun Wu](https://baike.baidu.com/en/item/Wu%20Jun/1489010) · [Syllabus](/files/teaching/AI1803-syllabus.pdf)
+
+## 🏅 Award and Service
+{: #award-and-service}
+
+### Awards
+
+<div class="credentials-grid" markdown="1">
+<div markdown="1">
+
+#### General
+
+- **2021** SJTU Excellent Youth Volunteer
+- **2022, 2025** SJTU 3-Good Student
+- **2022** UMich-SJTU Joint Institute Excellent Teaching Assistant
+- **2023 Shanghai Outstanding Graduate**
+- **2025 Yanbao Scholarship**
+
+</div>
+<div markdown="1">
+
+#### Sports
+
+- **2023** Shanghai University Tennis Tournament Men's Team - Bronze Medal
+- **2024 ‘50th Edition, 50 People’ Sports Talent Award of SJTU**
+- **2025** Shanghai University Football League Cup - Silver Medal
+- **2025** Chinese University Tennis Competition (Final Stage) Men's Team - No. 5
+- **2025** Shanghai University Tennis Tournament Mixed Doubles - Bronze Medal
+
+</div>
+</div>
+
+### Service
+
+<div class="credentials-grid" markdown="1">
+<div markdown="1">
+
+#### General
+
+- **Reviewer**<br>Journals: Nature Portfolio Artificial Intelligence, IEEE TMM, IET CV, Journal of Sports Analysis.<br>Conferences: ACL, ECCV.
+- Committee member of [NLP Academic Exchange Platform (NICE)](https://nice-nlp.github.io/).
+- Session Chair: ACM Multimedia 2025.
+- Program Committee: ISACE 2026.
+
+</div>
+<div markdown="1">
+
+#### Sports
+
+- **MC of Shaquille O’Neal China Tour**, Shanghai, 2023.9.28
+- **MC of Pamela Reif China Tour**, Shanghai, 2023.11.4
+- Hosted 50th Sports Meeting of SJTU, 2024.5.18
+- Hosted 129 Running Festival of SJTU, 2024.12.8
+- **MC of CUBAL** (Chinese University Basketball Association League), Shanghai, 2025.5.8–2025.5.12
+- **MC of LeBron James China Tour**, Shanghai, 2025.9.4
+
+</div>
+</div>
+
+## 🎸 Miscellaneous
+
+- Sports: Member of SJTU tennis team 🎾, Goal Keeper 🧤 at SJTU soccer team ⚽️
+- Music: Folk songs with guitar 🎸
 
 ## 🕰️ My Past
 

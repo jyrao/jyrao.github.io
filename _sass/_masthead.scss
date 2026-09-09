@@ -51,3 +51,7 @@
     font-weight: 700;
   }
 }
+.masthead { position: sticky; top: 0; background: #fff; }
+.masthead__inner-wrap { padding-top: 0.7em; padding-bottom: 0.7em; }
+.masthead .greedy-nav a { margin-left: 0.65rem; margin-right: 0.65rem; font-size: 0.85em; }
+.masthead__menu-item--lg { padding-right: 0.5em; }
