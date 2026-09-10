@@ -431,7 +431,8 @@
 
 .research-item {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
+  overflow-anchor: none;
   min-height: 108px;
   gap: 1em;
   padding: 0.6em 0;
@@ -546,3 +547,20 @@
 .cv-downloads span { font-size: 0.75em; font-weight: 400; }
 @media (max-width: 640px) { .credentials-grid { grid-template-columns: 1fr; gap: 0.6rem; } }
 @media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+
+/* Animate the actual layout height so later papers move with the abstract. */
+.abstract-panel {
+  display: grid;
+  grid-template-rows: 0fr;
+  visibility: hidden;
+  transition: grid-template-rows 360ms ease, visibility 0s 360ms;
+}
+.abstract-panel.is-expanded {
+  grid-template-rows: 1fr;
+  visibility: visible;
+  transition: grid-template-rows 360ms ease, visibility 0s;
+}
+.abstract-panel__inner { min-height: 0; overflow: hidden; }
+@media (prefers-reduced-motion: reduce) {
+  .abstract-panel, .abstract-panel.is-expanded { transition: none; }
+}

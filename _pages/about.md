@@ -10,11 +10,9 @@ redirect_from:
 ## 🔎  About Me
 {: #about-me}
 
-I'm a 3rd-year PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/), researching on Multi-modal Learning and AI for Science (AI4Sports) supervised by [Prof. Weidi Xie](https://weidixie.github.io/) and [Prof. Yanfeng Wang](https://cmic.sjtu.edu.cn/wangyanfeng/). I finished my undergraduate at [UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/about/) majoring in Electrical & Computer Engineering with Data Science minor degree. Currently, I'm visiting at [KAUST](https://www.kaust.edu.sa/en/) and [FIFA Research Institute](https://www.kaust.edu.sa/en/news/kaust-becomes-first-fifa-research-institute-in-the-middle-east-and-asia) with [Prof. Bernard Ghanem](https://www.bernardghanem.com/) and [SoccerNet team](https://www.soccer-net.org/). I'm also building an AI sports startup, hoping to let more people feel the passion and joy of sports through AI.
+I’m a 4th-year PhD candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), researching on multi-modal learning and AI for sports supervised by [Prof. Weidi Xie](https://weidixie.github.io/) and [Prof. Yanfeng Wang](https://cmic.sjtu.edu.cn/wangyanfeng/). Before that, I finished my undergraduate at [UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/about/) majoring in ECE with Data Science minor degree. Currently, I’m visiting at [KAUST](https://www.kaust.edu.sa/en/) and [FIFA Research Institute](https://www.kaust.edu.sa/en/news/kaust-becomes-first-fifa-research-institute-in-the-middle-east-and-asia) with [Prof. Bernard Ghanem](https://www.bernardghanem.com/) and [SoccerNet team](https://www.soccer-net.org/). I’m also building an AI sports startup, hoping to let more people feel the passion and joy of sports through AI.
 
-I was dreaming of becoming an athlete or a sports journalist, luckily AI gave me another chance to dive into sports media industry. I believe sports is all about human's body and mentality, hope my work can truly benefits atheletics performance and sports media in the future. Feel free to contact me if interest.
-
-
+Sport is an ancient, spontaneous form of human-centered behavior — one that lives in our polarity, where body and mind push each other to the edge. I hope my work can truly benefit athletic performance and sports media in the future. Feel free to contact me if interested.
 
 ## 🔥 News
 {: #news}
