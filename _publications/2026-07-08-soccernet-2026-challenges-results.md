@@ -13,7 +13,7 @@ paperurl: 'https://arxiv.org/abs/2607.07320'
     <p>
     <strong>SoccerNet 2026 Challenges Results</strong><br>
     <a href="https://www.soccer-net.org/team" target="_blank">SoccerNet Team</a><br>
-    <em>In submission</em> <span style="color: red;"><strong>(New)</strong></span><br>
+    <em>In ACCV 2026</em> <span style="color: red;"><strong>(New)</strong></span><br>
     [<a href="https://arxiv.org/abs/2607.07320" target="_blank">Paper</a>] / [<a href="https://www.soccer-net.org/challenges/2026" target="_blank">Webpage</a>] / [<a href="https://youtu.be/TjX789boQGM?si=l2YOfWyZURLcwTrY" target="_blank">Video</a>]
     </p>
   </div>

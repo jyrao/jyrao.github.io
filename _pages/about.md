@@ -19,11 +19,11 @@ Sport is an ancient, spontaneous form of human-centered behavior — one that li
 
 <div class="news-scroll" markdown="1" aria-label="Recent news">
 
+- [2026.09] [**SoccerNet 2026 Challenge Results**](https://www.soccer-net.org/challenges/2026) is accepted by **ACCV 2026**, summarizing soccer AI challenges in CVPR 2026.
 - [2026.08] 1 new preprint [**Towards Comprehensive Basketball Understanding**](https://arxiv.org/abs/2608.23435) is out.
 - [2026.08] 1 new preprint [**TennisVAR**](https://arxiv.org/abs/2608.12920)**🎾**, opening the tennis series of work.
 - [2026.08] 1 paper [**BasketEvent**](https://zhangyu2003.github.io/BasketEvent/) is accepted by **BMVC 2026**, opening a new AI basketball 🏀 research line.
 - [2026.07] [**WorldCupArena**](https://www.matchmate.tv/predict/) is released, as the AI prediction on soccer games @[**MatchMate**](https://www.matchmate.tv/).
-- [2026.07] [**SoccerNet 2026 Challenge Results**](https://www.soccer-net.org/challenges/2026) are out, summarizing the soccer AI challenges on CVPR 2026.
 - [2026.06] Invited talk about AI4Sports research and [**startup**](https://www.matchmate.tv/) @ [**NICE**](https://nice-intl.github.io/), [**recorded here**](https://mp.weixin.qq.com/s/V7hxQvXLgFpRFYvK32-ZJw).
 - [2026.05] [**SoccerMaster**](https://haolinyang-hlyang.github.io/SoccerMaster/) is selected as a **CVPR 2026 Best Paper Candidate**
 - [2026.05] An AI-powered sports viewing product [**MatchMate**](https://www.matchmate.tv/) for the World Cup now in closed beta! **[Join here!](/images/product/matchmate-qr.jpeg)**
@@ -129,7 +129,7 @@ Sport is an ancient, spontaneous form of human-centered behavior — one that li
     <p>
     <strong>SoccerNet 2026 Challenges Results</strong><br>
     <a href="https://www.soccer-net.org/team" target="_blank">SoccerNet Team</a><br>
-    <em>In submission</em> <span style="color: red;"><strong>(New)</strong></span><br>
+    <em>In ACCV 2026</em> <span style="color: red;"><strong>(New)</strong></span><br>
     <span class="research-links"><a href="https://arxiv.org/abs/2607.07320" target="_blank">Paper</a><span aria-hidden="true">|</span><a href="https://www.soccer-net.org/challenges/2026" target="_blank">Webpage</a><span aria-hidden="true">|</span><a href="https://youtu.be/TjX789boQGM?si=l2YOfWyZURLcwTrY" target="_blank">Demo Video</a><span aria-hidden="true">|</span><button class="abstract-toggle" data-abstract-url="/publication/2026-07-08-soccernet-2026-challenges-results" type="button">Abstract</button></span>
     </p>
   </div>
